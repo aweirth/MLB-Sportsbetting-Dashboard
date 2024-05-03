@@ -1,6 +1,14 @@
 # MLB Sportsbetting ETL Project
 
-This repository contains my final project for my graduate data engineering class at Willamette University. The goal of this project was  [link](https://aweirth.shinyapps.io/shiny_masters/).
+*_*UPDATE: As of May 1st 2024, my subscription to PowerBI and the cloud platform Railway hosting my data pipeline have ended with the finishing of the class. The dashboard and data in this repository have MLB Preseason/Regular Season game results and sportbetting odds from March 2nd - May 1st_*
+
+This repository contains my final project for my Graduate Data Engineering class at Willamette University. The end result was a Power BI dashboard connected to my live data source which was a datapipeline serving sportsbetting data from over 20 different US sportsbooks and daily MLB game results. This project showcases my comprehensive ability to carry out an ETL process:
+
+- Extracting data using a Docker Image to pull raw JSONB data from 5 diffferent API endpoints into a cloud hosted PostgreSQL database.
+- Transforming that data regularly in the cloud using a Docker Container that uses psql to run SQL code into a database in third normal form (3NF).
+- Loading that data into an informative Power BI report that isi able to communicate key insights of MLB sportsbetting odds and team profitability.
+
+View the report Power BI report [here](https://app.powerbi.com/groups/16ae97bc-f021-4246-b11e-638b2ab3cb6a/reports/014bc0ce-8d53-4aa7-b3f9-4febf1e88f1a/ReportSection4636aaa8c019734a14c2?ctid=46bc6c40-368d-4a20-9b1b-c1842f786542&experience=power-bi), or if my school organization's privacy settings do not allow viewing, see images of the dashboard in the [About](#about) section.
 
 
 ## Table of Contents
@@ -16,13 +24,12 @@ This repository contains my final project for my graduate data engineering class
 
 #### The Problem
 
-As an avid fan of the PGA Tour, one might be interested in diving deeper into results and statistics from certain tournaments regularly, however, the PGA Tour does a poor job of presenting and making data visualization accessible for fans ([see here](https://www.pgatour.com/stats)). On the official website, there is no way to easily view individual data and understand important trends from tournament results. 
+A goal of mine has always been to complete a data science project relating to sportsbetting as the data is interesting to me and sportsbetting is such a huge industry. Datasets relating to sportsbetting or odds prices are not widely availible on the usual platforms such as Kaggle or Machine Learning Repositories, so, for my 
 
-As an alternative, Data Golf is an online platform that collects PGA Tour data, runs a visualization blog, and maintains extensive machine learning models attempting to predict tournament outcomes. I constantly view this page as their machine learning models are interesting to track and monitor favorites for a given tournament. The issue with the Data Golf website is that for an audience with no background in data science, the dashboard can be extremely overwhelming especially for a non-technical audience.
 
 #### The Goal
 
-These problems led to clear definition of this projects goal: **Design an informative dashboard capable of conveying critical insights from individual tournaments, including important aspects of a winner's performance and overarching gameplay trends. Communicate this while prioritizing a clean, concise, and user-friendly interface accessible for all golf enthusiasts.**
+For my Data Engineering final project, my goal was to create a data pipeline in the cloud extracting, transforming, and loading MLB sportsbetting data as the MLB preseason had just begun.
 
 #### The Data
 
