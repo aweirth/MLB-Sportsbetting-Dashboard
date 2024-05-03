@@ -1,1 +1,2 @@
-
+# Database Cleaner
+This repository contains a Docker container that will run specific SQL script on whatever database is stored in the `$DATABASE_URL` environment variable. The `clean.sql` file has SQL script to clean and transform the raw ingested API data into organized and structured tables. This repository is linked to the cloud platform "Railway" where the service is run on a CRON schedule regularly to clean and make the clean.sql transoformations to my postgreSQL database.
