@@ -1,0 +1,525 @@
+game_id,official_date,game_time_stp,away_name,away_score,home_name,home_score,game_state,day_night,game_type,game_number,description,venue_name
+2f95fc97686da8b08c7909d0f9c60898,2024-03-02,2024-03-02 18:05:00+00,Pittsburgh Pirates,7,Detroit Tigers,3,Final,day,S,1,,Publix Field at Joker Marchant Stadium
+9cfd4824879eadc90996e625cfcfa1e3,2024-03-02,2024-03-02 18:05:00+00,St. Louis Cardinals,1,Houston Astros,7,Final,day,S,1,,CACTI Park of the Palm Beaches
+bca9f655168efa2c1b1d7d2b3e126574,2024-03-02,2024-03-02 18:05:00+00,Minnesota Twins,2,Philadelphia Phillies,3,Final,day,S,1,,BayCare Ballpark
+da781c07ca5f0bf1327aaced7eca5138,2024-03-02,2024-03-02 18:05:00+00,New York Yankees,3,Baltimore Orioles,7,Final,day,S,1,,Ed Smith Stadium
+44298bd97f977be9b0759c5aa4081109,2024-03-02,2024-03-02 18:07:00+00,Atlanta Braves,6,Toronto Blue Jays,2,Final,day,S,1,,TD Ballpark
+fbe5863d8f2414c52df2de638b7a673b,2024-03-02,2024-03-02 18:10:00+00,New York Mets,1,Miami Marlins,4,Final,day,S,1,,Roger Dean Chevrolet Stadium
+7fed47fef0e2a5b066bce36ff7792779,2024-03-02,2024-03-02 20:05:00+00,Kansas City Royals,13,Cleveland Guardians,12,Final,day,S,1,,Goodyear Ballpark
+3ad26f16f1a028ae11270e51dde06f2c,2024-03-02,2024-03-02 20:05:00+00,San Diego Padres,3,San Francisco Giants,2,Final,day,S,1,,Scottsdale Stadium
+7f77f8a74e3a734f87f9f745a90dbe37,2024-03-02,2024-03-02 20:05:00+00,Chicago White Sox,3,Texas Rangers,14,Final,day,S,1,,Surprise Stadium
+a18841792f2e8c0c9fa62df487a5883d,2024-03-02,2024-03-02 20:10:00+00,Arizona Diamondbacks,1,Los Angeles Angels,4,Final,day,S,1,,Tempe Diablo Stadium
+d7498785b88284c6d9a87aea26d3ca45,2024-03-02,2024-03-02 20:10:00+00,Cincinnati Reds,4,Colorado Rockies,10,Final,day,S,1,,Salt River Fields at Talking Stick
+b9255b38ca35c0ebb2b2f41a14eea020,2024-03-02,2024-03-02 20:10:00+00,Oakland Athletics,12,Seattle Mariners,8,Final,day,S,1,,Peoria Stadium
+0b4c2403cd8dcf63dcc6d232b901293f,2024-03-03,2024-03-03 18:05:00+00,Baltimore Orioles,5,Pittsburgh Pirates,2,Final,day,S,1,,LECOM Park
+856193e34e5079fe71ad68a4711fe563,2024-03-03,2024-03-03 18:05:00+00,Toronto Blue Jays,1,Boston Red Sox,3,Final,day,S,1,,JetBlue Park
+153da496ea973d2452d7d0a15268152a,2024-03-03,2024-03-03 18:05:00+00,Tampa Bay Rays,4,Minnesota Twins,4,Final,day,S,1,,Lee Health Sports Complex
+ffb0abf3b0f3a43e62366c6c0344d9f2,2024-03-03,2024-03-03 18:05:00+00,Philadelphia Phillies,2,Atlanta Braves,3,Final,day,S,1,,CoolToday Park
+ee1e387ab9f8452dca1e4a7273904f7f,2024-03-03,2024-03-03 18:05:00+00,Detroit Tigers,7,New York Yankees,2,Final,day,S,1,,George M. Steinbrenner Field
+d578394861825739e77b6c80d2d22d37,2024-03-03,2024-03-03 20:05:00+00,Cincinnati Reds,3,Kansas City Royals,7,Final,day,S,1,,Surprise Stadium
+ee39fe21f1fca90d2730ac384b1d684a,2024-03-03,2024-03-03 20:05:00+00,Colorado Rockies,4,Los Angeles Dodgers,7,Final,day,S,1,,Camelback Ranch
+75ddf82089ae6d127bd29dd7be7a246d,2024-03-03,2024-03-03 20:05:00+00,Texas Rangers,2,Oakland Athletics,5,Final,day,S,1,,Hohokam Stadium
+2ea993fcf02465fb3c15d6c95b5f07fb,2024-03-03,2024-03-03 20:10:00+00,Seattle Mariners,4,San Diego Padres,12,Final,day,S,1,,Peoria Stadium
+b68e879436eb039181fea183b05b5f3a,2024-03-03,2024-03-03 20:10:00+00,Chicago White Sox,1,Los Angeles Angels,3,Final,day,S,1,,Tempe Diablo Stadium
+7fd76d99c3942ac0f60cbc4be2a1b63b,2024-03-03,2024-03-03 20:10:00+00,Milwaukee Brewers,10,Arizona Diamondbacks,4,Final,day,S,1,,Salt River Fields at Talking Stick
+0d372901920321646d788c055b5f08fd,2024-03-04,2024-03-04 18:05:00+00,Boston Red Sox,1,Detroit Tigers,2,Final,day,S,1,,Publix Field at Joker Marchant Stadium
+cc5e8c7281be7f7df62af0dab564f08f,2024-03-04,2024-03-04 18:05:00+00,St. Louis Cardinals,0,Washington Nationals,1,Final,day,S,1,,CACTI Park of the Palm Beaches
+41341185e4b96ba8fd5afcb9377856c6,2024-03-04,2024-03-04 18:05:00+00,Pittsburgh Pirates,7,Tampa Bay Rays,3,Final,day,S,1,,Charlotte Sports Park
+07362e8205cba4f71be9aaa20dc452bc,2024-03-04,2024-03-04 18:07:00+00,Philadelphia Phillies,2,Toronto Blue Jays,5,Final,day,S,1,,TD Ballpark
+89b941b1defa5e3e99f875bf8d643a2f,2024-03-04,2024-03-04 20:05:00+00,Oakland Athletics,8,Cincinnati Reds,15,Final,day,S,1,,Goodyear Ballpark
+da9256ff810b9108bba79817b3b6c8c2,2024-03-04,2024-03-04 20:05:00+00,Los Angeles Angels,3,Texas Rangers,2,Final,day,S,1,,Surprise Stadium
+580280c468cb6a7bfb9887125159e62d,2024-03-04,2024-03-04 20:05:00+00,Arizona Diamondbacks,2,Chicago White Sox,5,Final,day,S,1,,Camelback Ranch
+5fc9f14ba24f262c61f5adeb5586d10f,2024-03-04,2024-03-04 20:10:00+00,Chicago Cubs,1,San Diego Padres,2,Final,day,S,1,,Peoria Stadium
+0e24f0b2189fd11b108c476d9dd80604,2024-03-04,2024-03-04 20:10:00+00,San Francisco Giants,10,Colorado Rockies,12,Final,day,S,1,,Salt River Fields at Talking Stick
+5855226f2c3e855cbbc50e761627dc57,2024-03-05,2024-03-05 18:05:00+00,Tampa Bay Rays,4,Boston Red Sox,7,Final,day,S,1,,JetBlue Park
+08d08bb9ed8a2e3ac2c6e394b0d2dbd3,2024-03-05,2024-03-05 18:05:00+00,Toronto Blue Jays,5,Pittsburgh Pirates,6,Final,day,S,1,,LECOM Park
+2bfe6d877594f167ba68f36ae135539e,2024-03-05,2024-03-05 18:05:00+00,Minnesota Twins,4,St. Louis Cardinals,5,Final,day,S,1,,Roger Dean Chevrolet Stadium
+ee6a8d82171ef880d44ec299dacae305,2024-03-05,2024-03-05 18:05:00+00,Baltimore Orioles,3,Philadelphia Phillies,2,Final,day,S,1,,BayCare Ballpark
+c86d2e0c820b670c43c238bad26eb27b,2024-03-05,2024-03-05 18:05:00+00,Detroit Tigers,0,Atlanta Braves,3,Final,day,S,1,,CoolToday Park
+61f83d099d0747e6cef8cb31b7866de4,2024-03-05,2024-03-05 18:05:00+00,Miami Marlins,2,Houston Astros,0,Final,day,S,1,,CACTI Park of the Palm Beaches
+dd6481fe71ddb9bff153f5519ada328d,2024-03-05,2024-03-05 18:10:00+00,New York Yankees,4,New York Mets,5,Final,day,S,1,,Clover Park
+7b6e028a1a2608adec267caef93d86ff,2024-03-05,2024-03-05 20:05:00+00,Milwaukee Brewers,8,San Francisco Giants,13,Final,day,S,1,,Scottsdale Stadium
+81efa329263d52b336e874ca3f6d2afc,2024-03-05,2024-03-05 20:10:00+00,San Diego Padres,3,Arizona Diamondbacks,5,Final,day,S,1,,Salt River Fields at Talking Stick
+d3f0505afcfc2cfc9378e4216dfc8e97,2024-03-06,2024-03-06 18:05:00+00,Boston Red Sox,1,Minnesota Twins,7,Final,day,S,1,,Lee Health Sports Complex
+f31fd578f6d6633c6b86cc7305d2fd46,2024-03-06,2024-03-06 18:05:00+00,Tampa Bay Rays,4,New York Yankees,3,Final,day,S,1,,George M. Steinbrenner Field
+2aa4cd8f4cfb45cdb1de33dda4876e47,2024-03-06,2024-03-06 18:10:00+00,Washington Nationals,9,Miami Marlins,3,Final,day,S,1,,Roger Dean Chevrolet Stadium
+a272e7193830fea25ae5dd84a556364f,2024-03-06,2024-03-06 20:05:00+00,Seattle Mariners,8,Kansas City Royals,7,Final,day,S,1,,Surprise Stadium
+afbd42695486769264b9d058bc4191bd,2024-03-06,2024-03-06 20:05:00+00,Los Angeles Dodgers,12,Chicago White Sox,9,Final,day,S,1,,Camelback Ranch
+bb7dbae8808813074d0e8d6b926925a4,2024-03-06,2024-03-06 20:10:00+00,Texas Rangers,6,Colorado Rockies,6,Final,day,S,1,,Salt River Fields at Talking Stick
+3f07c60afd7a78b5f45630cd9f58ed60,2024-03-07,2024-03-07 18:05:00+00,Houston Astros,6,St. Louis Cardinals,3,Final,day,S,1,,Roger Dean Chevrolet Stadium
+fce635c95eceee83f5cb0d89dc8b09f9,2024-03-07,2024-03-07 18:05:00+00,Philadelphia Phillies,2,Tampa Bay Rays,3,Final,day,S,1,,Charlotte Sports Park
+e0c555e00ce738e146b81d18dac0a8ac,2024-03-07,2024-03-07 18:05:00+00,Atlanta Braves,3,Boston Red Sox,2,Final,day,S,1,,JetBlue Park
+729a4f13906010a2d2e7b8b9419e0e5f,2024-03-07,2024-03-07 20:05:00+00,Arizona Diamondbacks,5,Texas Rangers,7,Final,day,S,1,,Surprise Stadium
+cf6afa1912396cb4d3f97ad3c09c1821,2024-03-07,2024-03-07 20:05:00+00,Milwaukee Brewers,8,Chicago White Sox,2,Final,day,S,1,,Camelback Ranch
+ad4f9df66a3d84693060f15857f58c3b,2024-03-07,2024-03-07 20:10:00+00,Los Angeles Angels,0,Seattle Mariners,5,Final,day,S,1,,Peoria Stadium
+bcab5c59881bd10744c0b120551c1d8b,2024-03-07,2024-03-07 23:10:00+00,Washington Nationals,1,New York Mets,3,Final,night,S,1,,Clover Park
+27d2a72b4f0097819b0e8f1736029210,2024-03-07,2024-03-08 01:05:00+00,Chicago Cubs,2,Cincinnati Reds,2,Final,night,S,1,,Goodyear Ballpark
+f1909217c256e9a80a551d7869efb413,2024-03-08,2024-03-08 18:05:00+00,Houston Astros,3,Philadelphia Phillies,6,Final,day,S,1,,BayCare Ballpark
+f9cd94b279b980bab3ac9c5e12d44480,2024-03-08,2024-03-08 18:07:00+00,New York Yankees,1,Toronto Blue Jays,2,Final,day,S,1,,TD Ballpark
+76e2f64578f214b565f1ec3048df1702,2024-03-08,2024-03-08 20:05:00+00,Kansas City Royals,4,Texas Rangers,2,Final,day,S,1,,Surprise Stadium
+0be5231207cb3c77bc9924993d006c9b,2024-03-08,2024-03-08 20:05:00+00,Chicago White Sox,1,Cleveland Guardians,2,Final,day,S,1,,Goodyear Ballpark
+252148b78f00af5878a70e151a7a95c6,2024-03-08,2024-03-08 20:10:00+00,Colorado Rockies,7,Los Angeles Angels,8,Final,day,S,1,,Tempe Diablo Stadium
+ef4b483c8fd9c924eefb29a7996a0546,2024-03-08,2024-03-08 23:05:00+00,Detroit Tigers,3,Baltimore Orioles,4,Final,night,S,1,,Ed Smith Stadium
+ea25cf83919096ddb5c2bbaacbcc8bf6,2024-03-08,2024-03-08 23:05:00+00,St. Louis Cardinals,7,Washington Nationals,6,Final,night,S,1,,CACTI Park of the Palm Beaches
+d5bfebac67b68cae723d996f21b81cf8,2024-03-08,2024-03-08 23:40:00+00,New York Mets,3,Miami Marlins,1,Final,night,S,1,,Roger Dean Chevrolet Stadium
+b726e4647e763bfe360a9ec398a2fe7c,2024-03-09,2024-03-09 18:05:00+00,Pittsburgh Pirates,5,Detroit Tigers,8,Final,day,S,1,,Publix Field at Joker Marchant Stadium
+6041db59e17a8a260acd58c39365586e,2024-03-09,2024-03-09 18:05:00+00,New York Mets,9,St. Louis Cardinals,3,Final,day,S,1,,Roger Dean Chevrolet Stadium
+fd282cd974dfd78bcc2df4166420e359,2024-03-09,2024-03-09 18:05:00+00,Toronto Blue Jays,13,Philadelphia Phillies,5,Final,day,S,1,,BayCare Ballpark
+61058c01537eb6632386b4751c0bfb44,2024-03-09,2024-03-09 18:05:00+00,Baltimore Orioles,10,Atlanta Braves,3,Final,day,S,1,,CoolToday Park
+3a758284170eb597375823f58caa8042,2024-03-09,2024-03-09 18:05:00+00,New York Yankees,7,Minnesota Twins,10,Final,day,S,1,,Lee Health Sports Complex
+784b6442422bd1f89e40ec6933263f9e,2024-03-09,2024-03-09 20:05:00+00,Los Angeles Angels,5,Cleveland Guardians,4,Final,day,S,1,,Goodyear Ballpark
+26419e6423daf2a6cba63ddf2d7f78dc,2024-03-09,2024-03-09 20:05:00+00,Colorado Rockies,0,Chicago Cubs,5,Final,day,S,1,,Sloan Park
+310986ab511c681bc10061da59592670,2024-03-09,2024-03-09 20:05:00+00,Texas Rangers,1,Los Angeles Dodgers,7,Final,day,S,1,,Camelback Ranch
+629fce2c9152731099d6fa553db9cab5,2024-03-09,2024-03-09 20:10:00+00,Chicago White Sox,1,San Diego Padres,1,Final,day,S,1,,Peoria Stadium
+239826b825c649cd293781ee96c29aaa,2024-03-09,2024-03-09 22:05:00+00,Boston Red Sox,4,Tampa Bay Rays,0,Final,night,S,1,"in Santo Domingo, Dominican Republic",Estadio Quisqueya Juan Marichal
+bc93244ec53425cce095855a6b3301d0,2024-03-11,2024-03-11 17:05:00+00,Detroit Tigers,5,Houston Astros,3,Final,day,S,1,,CACTI Park of the Palm Beaches
+b3f23a77e291f9cbd3664d189b20221e,2024-03-11,2024-03-11 17:05:00+00,Pittsburgh Pirates,0,Boston Red Sox,1,Final,day,S,1,,JetBlue Park
+5f67f0ddabf83f38f1edf9f7709f0221,2024-03-11,2024-03-11 17:05:00+00,Washington Nationals,11,St. Louis Cardinals,4,Final,day,S,1,,Roger Dean Chevrolet Stadium
+d82e6a195510a48bdde79d026674504e,2024-03-11,2024-03-11 17:05:00+00,Toronto Blue Jays,9,Tampa Bay Rays,2,Final,day,S,1,,Charlotte Sports Park
+2ef0b7e03c466478f9492bdbb5ddea71,2024-03-11,2024-03-11 17:05:00+00,Minnesota Twins,0,Atlanta Braves,3,Final,day,S,1,,CoolToday Park
+165f3279b56e15bd6d32b247cab477ef,2024-03-11,2024-03-11 20:05:00+00,Los Angeles Dodgers,1,Cleveland Guardians,5,Final,day,S,1,,Goodyear Ballpark
+eac0a3aef2e780b615f9c6ba6318e34e,2024-03-11,2024-03-11 20:05:00+00,San Francisco Giants,12,Kansas City Royals,9,Final,day,S,1,,Surprise Stadium
+6f71abea0c94788e23f46ec7344a4d30,2024-03-11,2024-03-11 20:05:00+00,Colorado Rockies,7,Chicago White Sox,2,Final,day,S,1,,Camelback Ranch
+102471e4b887b1af960d99192b3fedd6,2024-03-11,2024-03-11 20:10:00+00,Oakland Athletics,6,Arizona Diamondbacks,5,Final,day,S,1,,Salt River Fields at Talking Stick
+193a18f3132b36c8f32e062a557efdad,2024-03-11,2024-03-11 20:10:00+00,San Diego Padres,13,Seattle Mariners,3,Final,day,S,1,,Peoria Stadium
+33cc666543f03716efa8fc97b844c5c2,2024-03-11,2024-03-11 20:10:00+00,Texas Rangers,15,Los Angeles Angels,5,Final,day,S,1,,Tempe Diablo Stadium
+b73854bf4e9682472f84493797b6bd96,2024-03-11,2024-03-11 22:10:00+00,Miami Marlins,1,New York Mets,0,Final,night,S,1,,Clover Park
+9ac98b195ce226ae4a215816ea768368,2024-03-12,2024-03-12 17:05:00+00,St. Louis Cardinals,8,Boston Red Sox,6,Final,day,S,1,,JetBlue Park
+5b618ac8e55c5d48e621e60d299ad4f8,2024-03-12,2024-03-12 17:05:00+00,Tampa Bay Rays,8,Baltimore Orioles,12,Final,day,S,1,,Ed Smith Stadium
+226eee2ddc173ec5aca5aeff097a490a,2024-03-12,2024-03-12 17:05:00+00,Minnesota Twins,0,Detroit Tigers,1,Final,day,S,1,,Publix Field at Joker Marchant Stadium
+ec737c6183d4fad346d83a998eef7b35,2024-03-12,2024-03-12 17:05:00+00,Atlanta Braves,1,Pittsburgh Pirates,5,Final,day,S,1,,LECOM Park
+69d3351294e423699901cb8e1fb2fd89,2024-03-12,2024-03-12 17:07:00+00,New York Yankees,1,Toronto Blue Jays,8,Final,day,S,1,,TD Ballpark
+5075444aa47d710ef80f271e670c6c0b,2024-03-12,2024-03-12 17:10:00+00,Houston Astros,9,Miami Marlins,1,Final,day,S,1,,Roger Dean Chevrolet Stadium
+c105d0a84e7e996bcf1cf63494a997b3,2024-03-12,2024-03-12 20:05:00+00,Seattle Mariners,2,Oakland Athletics,4,Final,day,S,1,,Hohokam Stadium
+fa0a583427e9fcc01f6498962755578a,2024-03-12,2024-03-12 20:05:00+00,San Francisco Giants,4,Los Angeles Dodgers,6,Final,day,S,1,,Camelback Ranch
+278e23d4170ca327961c64664a58b6f6,2024-03-12,2024-03-12 20:05:00+00,Cleveland Guardians,3,Texas Rangers,0,Final,day,S,1,,Surprise Stadium
+caca8a2ea44a12d4378551c6730d2c1f,2024-03-23,2024-03-23 20:05:00+00,Colorado Rockies,2,Cincinnati Reds,6,Final,day,S,1,,Goodyear Ballpark
+0effcf662ab3248afe0b40b863eea45f,2024-03-12,2024-03-12 20:10:00+00,Kansas City Royals,2,Colorado Rockies,4,Final,day,S,1,,Salt River Fields at Talking Stick
+9b0a2f569b08990dbdbef9169a5e08a9,2024-03-12,2024-03-12 20:10:00+00,Arizona Diamondbacks,2,San Diego Padres,2,Final,day,S,1,,Peoria Stadium
+22a248efe76dc00df05ebd37109b4f0c,2024-03-12,2024-03-12 22:05:00+00,New York Mets,1,Washington Nationals,4,Final,night,S,1,,CACTI Park of the Palm Beaches
+afc433b993b0cc879958dc14e7998601,2024-03-12,2024-03-13 01:05:00+00,Chicago White Sox,14,Cincinnati Reds,1,Final,night,S,1,,Goodyear Ballpark
+c1b5ff86286cafdce9f807e2c76d4995,2024-03-12,2024-03-13 01:05:00+00,Milwaukee Brewers,5,Chicago Cubs,6,Final,night,S,1,,Sloan Park
+7a3ce58caa58b9c4b38443db6bb9afa2,2024-03-13,2024-03-13 17:05:00+00,Detroit Tigers,1,Philadelphia Phillies,4,Final,day,S,1,,BayCare Ballpark
+cb19e40dd865b2276a4d4cd082fa3f1d,2024-03-13,2024-03-13 17:05:00+00,Boston Red Sox,9,New York Yankees,4,Final,day,S,1,,George M. Steinbrenner Field
+90f9f7e00050109e456a956aebe04f7f,2024-03-13,2024-03-13 17:07:00+00,Pittsburgh Pirates,3,Toronto Blue Jays,10,Final,day,S,1,,TD Ballpark
+31f4ffde585636d2709cf773d0acec77,2024-03-13,2024-03-13 17:10:00+00,Washington Nationals,2,Miami Marlins,1,Final,day,S,1,,Roger Dean Chevrolet Stadium
+6c71597946384ca5e85250ce152891cd,2024-03-13,2024-03-13 20:05:00+00,Chicago Cubs,8,Cleveland Guardians,3,Final,day,S,1,,Goodyear Ballpark
+04ab19bcb44675f695f43baa82e056f2,2024-03-13,2024-03-13 20:05:00+00,Los Angeles Angels,2,Kansas City Royals,3,Final,day,S,1,,Surprise Stadium
+1e3c320f0699ecde4bdaad9def357670,2024-03-13,2024-03-13 20:05:00+00,Seattle Mariners,8,Los Angeles Dodgers,1,Final,day,S,1,,Camelback Ranch
+c0e08e8194c0f10ae6311fe794088daf,2024-03-13,2024-03-13 20:05:00+00,Cincinnati Reds,19,San Francisco Giants,11,Final,day,S,1,,Scottsdale Stadium
+5cf52cb8b74485103f96fa28a5192426,2024-03-13,2024-03-13 20:10:00+00,Colorado Rockies,7,Arizona Diamondbacks,5,Final,day,S,1,,Salt River Fields at Talking Stick
+78ca2ed8144d357a8093cc1abfa77edf,2024-03-13,2024-03-13 20:10:00+00,Oakland Athletics,11,San Diego Padres,12,Final,day,S,1,,Peoria Stadium
+75f33970fa586cb5f387fe652ed380b3,2024-03-13,2024-03-13 20:10:00+00,Chicago White Sox,15,Milwaukee Brewers,4,Final,day,S,1,,American Family Fields of Phoenix
+7d9f8e1541f4345767db1cc043a0747f,2024-03-13,2024-03-13 22:05:00+00,Atlanta Braves,7,Baltimore Orioles,5,Final,night,S,1,,Ed Smith Stadium
+55ace3d88c4907ffed47d722ef550b39,2024-03-13,2024-03-13 22:10:00+00,Houston Astros,5,New York Mets,6,Final,night,S,1,,Clover Park
+4c983c5ca2fc5750f0c3069b4c5e13d2,2024-03-18,2024-03-18 17:05:00+00,Boston Red Sox,2,Minnesota Twins,5,Final,day,S,1,,Lee Health Sports Complex
+7838ece8ee6a2cb939a16e97f7a52fed,2024-03-18,2024-03-18 17:05:00+00,Atlanta Braves,3,Tampa Bay Rays,7,Final,day,S,1,,Charlotte Sports Park
+a68d2c538bc208497b0c8f6bf8fe90a2,2024-03-18,2024-03-18 20:05:00+00,Seattle Mariners,9,Texas Rangers,5,Final,day,S,1,,Surprise Stadium
+d059936a6eab9eb821a3877137554fd7,2024-03-18,2024-03-18 20:05:00+00,Cleveland Guardians,8,Chicago White Sox,5,Final,day,S,1,,Camelback Ranch
+c1f128026a250f18dca33500d06fef8f,2024-03-18,2024-03-18 20:10:00+00,Oakland Athletics,3,Arizona Diamondbacks,3,Final,day,S,1,,Salt River Fields at Talking Stick
+8cf21a0a63cc4495e2899b6b8f54061e,2024-03-18,2024-03-18 20:10:00+00,Los Angeles Angels,3,Milwaukee Brewers,4,Final,day,S,1,,American Family Fields of Phoenix
+1ff4661d70ca0d93c0ec7b7dbad979e3,2024-03-18,2024-03-19 01:05:00+00,San Francisco Giants,4,Cincinnati Reds,2,Final,night,S,1,,Goodyear Ballpark
+0892419f214411d43f65b1ba0d96d597,2024-03-19,2024-03-19 17:05:00+00,Tampa Bay Rays,2,Boston Red Sox,5,Final,day,S,1,,JetBlue Park
+67b907853ac3ae8ba908878764030e2a,2024-03-19,2024-03-19 17:07:00+00,Baltimore Orioles,13,Toronto Blue Jays,8,Final,day,S,1,,TD Ballpark
+4033fc7875b1f5de92bd68cff7785ad8,2024-03-19,2024-03-19 20:05:00+00,Oakland Athletics,7,Texas Rangers,7,Final,day,S,1,,Surprise Stadium
+8b98db1bd642c4c448a4bb923601d7e8,2024-03-19,2024-03-19 20:10:00+00,Cincinnati Reds,6,Los Angeles Angels,10,Final,day,S,1,,Tempe Diablo Stadium
+4575b7feb531df81697b269b98bda3db,2024-03-19,2024-03-19 22:05:00+00,Philadelphia Phillies,0,Detroit Tigers,0,Final,night,S,1,,Publix Field at Joker Marchant Stadium
+23cdf1784ccc78a01bb9ff5cf5240e31,2024-03-19,2024-03-20 01:05:00+00,Arizona Diamondbacks,4,Chicago Cubs,1,Final,night,S,1,,Sloan Park
+0a2d7d63be06c27bee2e48290081cf34,2024-03-19,2024-03-20 02:05:00+00,Kansas City Royals,8,San Francisco Giants,9,Final,night,S,1,,Scottsdale Stadium
+1ffa13bb191b2be434fdd5262b1c7429,2024-03-21,2024-03-21 17:05:00+00,New York Mets,10,Detroit Tigers,5,Final,day,S,1,,Publix Field at Joker Marchant Stadium
+51a2819bb2f147f497d3cbd963d41040,2024-03-21,2024-03-21 17:05:00+00,Houston Astros,9,St. Louis Cardinals,1,Final,day,S,1,,Roger Dean Chevrolet Stadium
+3ee6f94329bb262a7c28223d57db4684,2024-03-21,2024-03-21 17:05:00+00,Minnesota Twins,8,Washington Nationals,9,Final,day,S,1,,CACTI Park of the Palm Beaches
+75cb079f252f92ddc60b842de21b5c63,2024-03-21,2024-03-21 17:05:00+00,Tampa Bay Rays,6,Philadelphia Phillies,5,Final,day,S,1,,BayCare Ballpark
+f759b13b767612e6412cf37a1858fb3f,2024-03-21,2024-03-21 17:05:00+00,New York Yankees,2,Atlanta Braves,5,Final,day,S,1,,CoolToday Park
+a097b226ee606ba51e9fc832f9cfb3db,2024-03-21,2024-03-21 20:10:00+00,Chicago Cubs,5,Colorado Rockies,2,Final,day,S,1,,Salt River Fields at Talking Stick
+627a20f422421eacd982a9d5b3dd1cb7,2024-03-21,2024-03-21 22:05:00+00,Baltimore Orioles,2,Boston Red Sox,3,Final,night,S,1,,JetBlue Park
+7018b6f05c92471fdd776f4a84dbadde,2024-03-21,2024-03-21 22:05:00+00,Toronto Blue Jays,3,Pittsburgh Pirates,2,Final,night,S,1,,LECOM Park
+36fd241c5bb6907f8378b08ba37204cb,2024-03-21,2024-03-22 01:10:00+00,San Francisco Giants,7,Milwaukee Brewers,6,Final,night,S,1,,American Family Fields of Phoenix
+6a1137faa7dcc4de0f5bb07426db68da,2024-03-21,2024-03-22 01:40:00+00,Cincinnati Reds,6,Seattle Mariners,7,Final,night,S,1,,Peoria Stadium
+46aff27c85c2f0012835b857512c25af,2024-03-22,2024-03-22 17:05:00+00,Detroit Tigers,4,Philadelphia Phillies,3,Final,day,S,1,,BayCare Ballpark
+0838fb31d00fe4bffe77d2390629fef7,2024-03-22,2024-03-22 17:05:00+00,New York Mets,3,New York Yankees,5,Final,day,S,1,,George M. Steinbrenner Field
+b8c7626e8c1d8650cc5e0e99c5c7e237,2024-03-22,2024-03-22 17:07:00+00,Boston Red Sox,1,Toronto Blue Jays,5,Final,day,S,1,,TD Ballpark
+14ceae5292653fdc743fbd05d152a771,2024-03-23,2024-03-23 17:10:00+00,Houston Astros,13,New York Mets,5,Final,day,S,1,,Clover Park
+ecb91641db7d0bb355aebe3428717a97,2024-03-23,2024-03-23 19:05:00+00,Texas Rangers,1,Kansas City Royals,1,Final,day,S,1,,Surprise Stadium
+1a1391249d13729f6634ede264208b6b,2024-03-23,2024-03-23 20:05:00+00,Seattle Mariners,8,Chicago White Sox,2,Final,day,S,1,,Camelback Ranch
+fd568598e573ed5fb2961c915aba02a0,2024-03-23,2024-03-23 20:05:00+00,Milwaukee Brewers,7,Chicago Cubs,4,Final,day,S,1,,Sloan Park
+17ee425be683ccf0ba7aee500506a245,2024-03-25,2024-03-25 16:05:00+00,Tampa Bay Rays,6,Philadelphia Phillies,3,Final,day,S,1,,BayCare Ballpark
+0eaf54270fca6b1b311c8061dbf39354,2024-03-25,2024-03-25 17:05:00+00,Toronto Blue Jays,3,Pittsburgh Pirates,4,Final,day,S,1,,LECOM Park
+49cbf8f9435e89e33f0c5ccdec94a6a1,2024-03-25,2024-03-25 17:05:00+00,Minnesota Twins,0,Atlanta Braves,4,Final,day,S,1,,CoolToday Park
+9267ffa73fe547af521bbd43b07ddf98,2024-03-25,2024-03-25 20:05:00+00,St. Louis Cardinals,6,Chicago Cubs,3,Final,day,S,1,,Sloan Park
+96d2a5d083944be83522b76957df1c28,2024-03-25,2024-03-25 20:10:00+00,Colorado Rockies,1,Milwaukee Brewers,10,Final,day,S,1,,American Family Fields of Phoenix
+3ec598251ccd65fa55ac19509bd8eaf8,2024-03-25,2024-03-26 00:05:00+00,Boston Red Sox,9,Texas Rangers,2,Final,night,S,1,at Globe Life Field,Globe Life Field
+aaf3c7a695abc89361f4a5bff2315e57,2024-03-25,2024-03-26 01:10:00+00,Los Angeles Angels,6,Los Angeles Dodgers,0,Final,night,S,1,at Dodger Stadium,Dodger Stadium
+3e5ef214df6a7cd477ca7fc81711a0d6,2024-03-25,2024-03-26 01:40:00+00,Seattle Mariners,4,San Diego Padres,1,Final,night,S,1,at Petco Park,Petco Park
+f91ee056a2fd296077e752c26c9b21e6,2024-03-25,2024-03-26 01:40:00+00,San Francisco Giants,4,Oakland Athletics,1,Final,night,S,1,at Oakland Coliseum,Oakland Coliseum
+6ad62aad07afd2cc4cea93fa06357ae6,2024-03-26,2024-03-26 16:35:00+00,Detroit Tigers,3,Tampa Bay Rays,3,Final,day,S,1,at Tropicana Field,Tropicana Field
+163bd9935860f3a938922bb647a8e3bd,2024-03-26,2024-03-26 17:05:00+00,Atlanta Braves,6,Minnesota Twins,9,Final,day,S,1,,Lee Health Sports Complex
+9cb690be653b4696f4daf12608135e35,2024-03-26,2024-03-26 18:05:00+00,Boston Red Sox,4,Texas Rangers,1,Final,day,S,1,at Globe Life Field,Globe Life Field
+f201474220dd2bc26d62938eb08998dc,2024-03-26,2024-03-26 19:05:00+00,St. Louis Cardinals,7,Chicago Cubs,2,Final,day,S,1,,Sloan Park
+729911ca4c2a0ab4ed4e2d0fc27ba908,2024-03-26,2024-03-26 19:10:00+00,Milwaukee Brewers,1,Colorado Rockies,6,Final,day,S,1,,Salt River Fields at Talking Stick
+2bcdb1b6934c3bf89b75d221c8aac14e,2024-03-26,2024-03-26 19:40:00+00,Cleveland Guardians,1,Arizona Diamondbacks,6,Final,day,S,1,at Chase Field,Chase Field
+2cfaa629b715d562a66a8aafe6ad0706,2024-03-26,2024-03-26 20:10:00+00,Seattle Mariners,7,San Diego Padres,6,Final,day,S,1,at Petco Park,Petco Park
+af0db9d2360ea13834051b5493592875,2024-03-26,2024-03-27 00:05:00+00,Oakland Athletics,3,San Francisco Giants,1,Final,night,S,1,at Oracle Park,Oracle Park
+598cee864cada367115ed4dff1fba150,2024-03-26,2024-03-27 01:07:00+00,Los Angeles Dodgers,3,Los Angeles Angels,4,Final,night,S,1,at Angel Stadium,Angel Stadium
+eca98b280268b0ae1a48380428dc36b4,2024-04-02,2024-04-02 20:10:00+00,Minnesota Twins,2,Milwaukee Brewers,3,Final,day,R,1,Brewers home opener,American Family Field
+d02c190a7d91cd1e2797c1e2a2e0582c,2024-04-02,2024-04-02 22:35:00+00,Kansas City Royals,4,Baltimore Orioles,1,Final,night,R,1,,Oriole Park at Camden Yards
+b7636fc3f9aad7f5c018f45893c4024f,2024-04-02,2024-04-02 22:40:00+00,Cincinnati Reds,4,Philadelphia Phillies,9,Final,night,R,1,,Citizens Bank Park
+1a8833516bfbb97c8a943c7a3a426753,2024-04-02,2024-04-02 22:40:00+00,Los Angeles Angels,3,Miami Marlins,1,Final,night,R,1,,loanDepot park
+e9ce490f2eb93f1ae42ec5f78857c1d0,2024-04-02,2024-04-02 22:50:00+00,Texas Rangers,2,Tampa Bay Rays,5,Final,night,R,1,,Tropicana Field
+a5ad0a06142f7e4471a59438eef7ed47,2024-04-02,2024-04-02 23:40:00+00,Colorado Rockies,2,Chicago Cubs,12,Final,night,R,1,,Wrigley Field
+8f331b635a0c7499ad3467396e998a7a,2024-04-02,2024-04-02 23:40:00+00,Atlanta Braves,2,Chicago White Sox,3,Final,night,R,1,,Guaranteed Rate Field
+db5823480dce25595845cff7ca0c2832,2024-04-02,2024-04-03 00:10:00+00,Toronto Blue Jays,2,Houston Astros,1,Final,night,R,1,,Minute Maid Park
+7f0e5739dc3b18baa6606805557bc465,2024-04-02,2024-04-03 01:40:00+00,Boston Red Sox,5,Oakland Athletics,4,Final,night,R,1,,Oakland Coliseum
+b38e5f5256b24217d52335d67f6ad865,2024-04-02,2024-04-03 01:40:00+00,Cleveland Guardians,5,Seattle Mariners,2,Final,night,R,1,,T-Mobile Park
+ed9b44216b12fec15477239b20f75431,2024-04-02,2024-04-03 01:40:00+00,St. Louis Cardinals,5,San Diego Padres,2,Final,night,R,1,,Petco Park
+5edfd8eee250f8a39e3ab3e42ec39c6d,2024-04-02,2024-04-03 01:40:00+00,New York Yankees,0,Arizona Diamondbacks,7,Final,night,R,1,,Chase Field
+ec2e471aa095647ca3545a7f9aa60fa8,2024-04-02,2024-04-03 02:10:00+00,San Francisco Giants,4,Los Angeles Dodgers,5,Final,night,R,1,,Dodger Stadium
+f556df248aca418daf613635b4a290d8,2024-04-04,2024-04-04 16:10:00+00,Detroit Tigers,6,New York Mets,3,Final,day,R,1,Makeup of 4/2 PPD,Citi Field
+e30841ea1686dea93d693e2f0bf870eb,2024-04-04,2024-04-04 20:05:00+00,Pittsburgh Pirates,7,Washington Nationals,4,Final,day,R,1,,Nationals Park
+e0e607debde6bcb37f109fa72fffa4ee,2024-04-04,2024-04-04 20:10:00+00,Cleveland Guardians,4,Minnesota Twins,2,Final,day,R,1,Twins home opener,Target Field
+96a1dee43e64f4cbf32c63f0fc2d1d02,2024-04-04,2024-04-04 20:15:00+00,Miami Marlins,5,St. Louis Cardinals,8,Final,day,R,1,Cardinals home opener,Busch Stadium
+67d983211d04c24df99b5b14f404942c,2024-04-04,2024-04-04 23:40:00+00,Chicago White Sox,1,Kansas City Royals,10,Final,night,R,1,,Kauffman Stadium
+615e31299b31fb876ee2e9bf3e17a780,2024-04-06,2024-04-06 17:10:00+00,Oakland Athletics,4,Detroit Tigers,0,Final,day,R,1,,Comerica Park
+90752847f7d70361259bbb354f0eff2b,2024-04-06,2024-04-06 18:10:00+00,Cleveland Guardians,3,Minnesota Twins,1,Final,day,R,1,,Target Field
+56dd0ae271d5de71f872a1d389c6b267,2024-04-06,2024-04-06 18:15:00+00,Miami Marlins,1,St. Louis Cardinals,3,Final,day,R,1,,Busch Stadium
+2421b51cd041afd2f0939006be95712f,2024-04-06,2024-04-06 20:05:00+00,Los Angeles Dodgers,4,Chicago Cubs,1,Final,day,R,1,,Wrigley Field
+980ababc8c20527f05d4a29d6afaca92,2024-04-06,2024-04-06 20:05:00+00,Baltimore Orioles,4,Pittsburgh Pirates,5,Final,day,R,1,,PNC Park
+3624adde038ea223cb84e039f1da62c5,2024-04-06,2024-04-06 20:05:00+00,Philadelphia Phillies,5,Washington Nationals,2,Final,day,R,1,,Nationals Park
+ce79044c631686a880ac15cb9396c07c,2024-04-06,2024-04-06 20:10:00+00,New York Mets,6,Cincinnati Reds,9,Final,day,R,1,,Great American Ball Park
+5d09a9f0a672b9928f8cdc837cd6377e,2024-04-06,2024-04-06 23:05:00+00,Houston Astros,2,Texas Rangers,7,Final,night,R,1,,Globe Life Field
+a21e184a6b7ef6f711f024b57d1cf23a,2024-04-06,2024-04-06 23:05:00+00,Toronto Blue Jays,8,New York Yankees,9,Final,night,R,1,,Yankee Stadium
+f8971bf50553a88ec597be9d8e219b6c,2024-04-06,2024-04-06 23:10:00+00,Chicago White Sox,0,Kansas City Royals,3,Final,night,R,1,,Kauffman Stadium
+9a0c7bb8c823121897f7a84caa72e141,2024-04-06,2024-04-06 23:10:00+00,Seattle Mariners,5,Milwaukee Brewers,3,Final,night,R,1,,American Family Field
+294455bf1f96cb1a6eff69986b6de40c,2024-04-06,2024-04-06 23:20:00+00,Arizona Diamondbacks,8,Atlanta Braves,9,Final,night,R,1,,Truist Park
+ef753903d2cf4f5e621e7e6ff975992a,2024-04-06,2024-04-07 00:10:00+00,Tampa Bay Rays,8,Colorado Rockies,6,Final,night,R,1,,Coors Field
+0297a9ce7ec5fac999339306f37b15e6,2024-04-06,2024-04-07 01:05:00+00,San Diego Padres,4,San Francisco Giants,0,Final,night,R,1,,Oracle Park
+69f52e59e32e9b64e273a9b29d10d43e,2024-04-06,2024-04-07 01:38:00+00,Boston Red Sox,1,Los Angeles Angels,2,Final,night,R,1,,Angel Stadium
+0ffe3255438d8bcd50bd002009836ecd,2024-04-07,2024-04-07 17:35:00+00,Baltimore Orioles,2,Pittsburgh Pirates,3,Final,day,R,1,,PNC Park
+c11ec5f61333e34f5d920e490add1976,2024-04-07,2024-04-07 17:35:00+00,Philadelphia Phillies,2,Washington Nationals,3,Final,day,R,1,,Nationals Park
+9baa7d166bd8c40028e491738f78dfba,2024-04-07,2024-04-07 17:35:00+00,Arizona Diamondbacks,2,Atlanta Braves,5,Final,day,R,1,,Truist Park
+4d7217d167f00332b0840252f3cb0970,2024-04-07,2024-04-07 17:35:00+00,Toronto Blue Jays,3,New York Yankees,8,Final,day,R,1,,Yankee Stadium
+1c39ac60a14e5d53fbb42a4c5d3739c2,2024-04-07,2024-04-07 17:40:00+00,New York Mets,3,Cincinnati Reds,1,Final,day,R,1,,Great American Ball Park
+895ad5cb4b784e1827cb5dd67799c3f9,2024-04-07,2024-04-07 17:40:00+00,Oakland Athletics,7,Detroit Tigers,1,Final,day,R,1,,Comerica Park
+e13de0c193505d1010366c81c9db7b9d,2024-04-07,2024-04-07 18:10:00+00,Chicago White Sox,3,Kansas City Royals,5,Final,day,R,1,,Kauffman Stadium
+0c6715a75a262a2aee57337114a7b9dd,2024-04-07,2024-04-07 18:10:00+00,Seattle Mariners,4,Milwaukee Brewers,12,Final,day,R,1,,American Family Field
+9fba77fd5d2e2d28360f040885bc85b1,2024-04-07,2024-04-07 18:15:00+00,Miami Marlins,10,St. Louis Cardinals,3,Final,day,R,1,,Busch Stadium
+8d425080c17f48a58b29e334fa161259,2024-04-07,2024-04-07 18:20:00+00,Los Angeles Dodgers,1,Chicago Cubs,8,Final,day,R,1,,Wrigley Field
+b5f2229d50881532434da51da3251ee9,2024-04-07,2024-04-07 19:10:00+00,Tampa Bay Rays,3,Colorado Rockies,2,Final,day,R,1,,Coors Field
+2b22fa276fdfcc8b4c915203fc05934d,2024-04-07,2024-04-07 20:05:00+00,San Diego Padres,2,San Francisco Giants,3,Final,day,R,1,,Oracle Park
+db527d9c98f489595bae507c1f84cc75,2024-04-07,2024-04-07 20:07:00+00,Boston Red Sox,12,Los Angeles Angels,2,Final,day,R,1,,Angel Stadium
+89a9b9240575043a115368656eaa2253,2024-04-07,2024-04-07 23:10:00+00,Houston Astros,3,Texas Rangers,1,Final,night,R,1,,Globe Life Field
+b426f150a2bf13712a4bb0fdf9ca1f25,2024-04-08,2024-04-08 22:05:00+00,Miami Marlins,0,New York Yankees,7,Final,night,R,1,Start time moved from 2:05pm,Yankee Stadium
+9e7ab70be858b0fb1f713c4d4679158b,2024-04-08,2024-04-08 22:40:00+00,Detroit Tigers,4,Pittsburgh Pirates,7,Final,night,R,1,,PNC Park
+82d7fc73685b3efb7688b894c48bdd78,2024-04-08,2024-04-08 22:40:00+00,Milwaukee Brewers,8,Cincinnati Reds,10,Final,night,R,1,,Great American Ball Park
+9ba20b06d3d326b4397373d58269bf1f,2024-04-08,2024-04-08 23:07:00+00,Seattle Mariners,2,Toronto Blue Jays,5,Final,night,R,1,Blue Jays home opener,Rogers Centre
+33840edd610451b693e76f7186e6a086,2024-04-08,2024-04-08 23:20:00+00,New York Mets,8,Atlanta Braves,7,Final,night,R,1,,Truist Park
+c47090b313f914cbd2518a9cfedd478b,2024-04-08,2024-04-08 23:40:00+00,Los Angeles Dodgers,4,Minnesota Twins,2,Final,night,R,1,,Target Field
+edbf77a61511a18abd0f24a13c82ee44,2024-04-08,2024-04-08 23:45:00+00,Philadelphia Phillies,5,St. Louis Cardinals,3,Final,night,R,1,,Busch Stadium
+6405754c8dc94d07532f8c89275efca8,2024-04-08,2024-04-09 00:05:00+00,Houston Astros,10,Texas Rangers,5,Final,night,R,1,,Globe Life Field
+d5a79b3f863d1b41ca5b9996daade0b0,2024-04-08,2024-04-09 00:40:00+00,Arizona Diamondbacks,5,Colorado Rockies,7,Final,night,R,1,,Coors Field
+c163b5f5f4579c8293266956ccf3d9bd,2024-04-08,2024-04-09 01:38:00+00,Tampa Bay Rays,1,Los Angeles Angels,7,Final,night,R,1,,Angel Stadium
+7d584f5a2dea3c913e37536fe1fdcab5,2024-04-08,2024-04-09 01:40:00+00,Chicago Cubs,8,San Diego Padres,9,Final,night,R,1,,Petco Park
+39fb014f345a723482084e5aca2bc5d4,2024-04-08,2024-04-09 01:45:00+00,Washington Nationals,8,San Francisco Giants,1,Final,night,R,1,,Oracle Park
+d053770cc2cedd6b09c4ca8878cb7679,2024-04-09,2024-04-09 16:35:00+00,Detroit Tigers,5,Pittsburgh Pirates,3,Final,day,R,1,,PNC Park
+cff869ac412b13c4e27283a7bd2cb40b,2024-04-09,2024-04-09 18:10:00+00,Baltimore Orioles,7,Boston Red Sox,1,Final,day,R,1,Red Sox home opener,Fenway Park
+00bcd89e9d2333d22b41b1e3db6bad33,2024-04-09,2024-04-09 22:10:00+00,Chicago White Sox,7,Cleveland Guardians,5,Final,night,R,1,,Progressive Field
+401b617b15cef11bbfb9a52cb92c856d,2024-04-09,2024-04-09 22:40:00+00,Milwaukee Brewers,9,Cincinnati Reds,5,Final,night,R,1,,Great American Ball Park
+b034cabe636e33b1a58aa6a08143302f,2024-04-09,2024-04-09 23:05:00+00,Miami Marlins,2,New York Yankees,3,Final,night,R,1,,Yankee Stadium
+89b313b9b1bb610e8c26c838514b6d5d,2024-04-09,2024-04-09 23:07:00+00,Seattle Mariners,3,Toronto Blue Jays,5,Final,night,R,1,,Rogers Centre
+9203091bebb23e275c8842794604078d,2024-04-09,2024-04-09 23:20:00+00,New York Mets,5,Atlanta Braves,6,Final,night,R,1,,Truist Park
+ec5c7c51c4d7d0e4000f74518a58dc4b,2024-04-09,2024-04-09 23:40:00+00,Houston Astros,3,Kansas City Royals,4,Final,night,R,1,,Kauffman Stadium
+82e5f2045de7e6c38e1da3aa31b60039,2024-04-09,2024-04-09 23:40:00+00,Los Angeles Dodgers,6,Minnesota Twins,3,Final,night,R,1,,Target Field
+e58f40b4532f688304e8e71920498851,2024-04-09,2024-04-09 23:45:00+00,Philadelphia Phillies,0,St. Louis Cardinals,3,Final,night,R,1,,Busch Stadium
+76d23efb16585e62be05760629e99b99,2024-04-09,2024-04-10 00:05:00+00,Oakland Athletics,4,Texas Rangers,3,Final,night,R,1,,Globe Life Field
+e3d0e60421b2efa13e08a6b04526d11b,2024-04-09,2024-04-10 00:40:00+00,Arizona Diamondbacks,3,Colorado Rockies,2,Final,night,R,1,,Coors Field
+00a59cb0b1f6e006fe21c893f43caafe,2024-04-09,2024-04-10 01:38:00+00,Tampa Bay Rays,6,Los Angeles Angels,4,Final,night,R,1,,Angel Stadium
+81db340a7510640e8ed1bbb621611484,2024-04-09,2024-04-10 01:45:00+00,Washington Nationals,5,San Francisco Giants,3,Final,night,R,1,,Oracle Park
+849a38192c6d00e8053d1606cacbca64,2024-04-09,2024-04-10 02:05:00+00,Chicago Cubs,5,San Diego Padres,1,Final,night,R,1,,Petco Park
+b8e87e71461a780eabe47f36a8f534e3,2024-04-10,2024-04-10 17:10:00+00,Los Angeles Dodgers,2,Minnesota Twins,3,Final,day,R,1,,Target Field
+f5f399b04b5b42c0ac27c004d657a16f,2024-04-10,2024-04-10 17:15:00+00,Philadelphia Phillies,4,St. Louis Cardinals,3,Final,day,R,1,,Busch Stadium
+4f6daabbda8bba5f532b1ff8f38b8ad0,2024-04-10,2024-04-10 19:07:00+00,Seattle Mariners,6,Toronto Blue Jays,1,Final,day,R,1,,Rogers Centre
+3da2ca825083c93c62109fccc33eda57,2024-04-10,2024-04-10 19:10:00+00,Arizona Diamondbacks,5,Colorado Rockies,3,Final,day,R,1,,Coors Field
+b6306df41861ad5d712ff1e952e30af0,2024-04-10,2024-04-10 19:45:00+00,Washington Nationals,1,San Francisco Giants,7,Final,day,R,1,,Oracle Park
+dd091d3f36f9271f3f7ac53d2a3c6ee4,2024-04-10,2024-04-10 20:07:00+00,Tampa Bay Rays,4,Los Angeles Angels,2,Final,day,R,1,,Angel Stadium
+9bd91df6afafc60dcd3dba187e6c752c,2024-04-10,2024-04-10 22:10:00+00,Chicago White Sox,6,Cleveland Guardians,7,Final,night,R,1,,Progressive Field
+731942714d2c3def68005e36789703d2,2024-04-10,2024-04-10 22:40:00+00,Chicago Cubs,2,San Diego Padres,10,Final,day,R,1,,Petco Park
+44a70bb055f44602c74e2ba763b39301,2024-04-10,2024-04-10 22:40:00+00,Milwaukee Brewers,7,Cincinnati Reds,2,Final,night,R,1,,Great American Ball Park
+dbfad137af512ac9885db336f587060e,2024-04-10,2024-04-10 23:05:00+00,Miami Marlins,5,New York Yankees,2,Final,night,R,1,,Yankee Stadium
+fd19e0d84c2a32c6408d652a19ab0729,2024-04-10,2024-04-10 23:10:00+00,Baltimore Orioles,7,Boston Red Sox,5,Final,night,R,1,,Fenway Park
+f9beb63c8debce29bbb0d1140a2bf3e3,2024-04-10,2024-04-10 23:40:00+00,Houston Astros,2,Kansas City Royals,11,Final,night,R,1,,Kauffman Stadium
+40cea661ee5ddcc0d391382797a82e81,2024-04-10,2024-04-11 00:05:00+00,Oakland Athletics,2,Texas Rangers,6,Final,night,R,1,,Globe Life Field
+bcb985c1a720f89d29cdba1611e7c88d,2024-04-11,2024-04-11 16:20:00+00,New York Mets,16,Atlanta Braves,4,Final,day,R,1,,Truist Park
+db25eb58453fb3e3479444a20c68faa0,2024-04-11,2024-04-11 18:10:00+00,Houston Astros,3,Kansas City Royals,13,Final,day,R,1,,Kauffman Stadium
+be47cc2e3bb25b6a54659f38f3a320e7,2024-04-11,2024-04-11 18:35:00+00,Oakland Athletics,1,Texas Rangers,0,Final,day,R,1,,Globe Life Field
+0b577c7a9d32ca8e1c45e815dad7de05,2024-04-11,2024-04-11 22:40:00+00,Pittsburgh Pirates,1,Philadelphia Phillies,5,Final,night,R,1,,Citizens Bank Park
+3d8ad09142a65f353c419f64285d06e2,2024-04-11,2024-04-11 23:10:00+00,Baltimore Orioles,9,Boston Red Sox,4,Final,night,R,1,,Fenway Park
+a2d788e0083bbd1f17ee55a547c6c7e8,2024-04-12,2024-04-12 22:40:00+00,Minnesota Twins,2,Detroit Tigers,8,Final,night,R,1,,Comerica Park
+c7388ee483c2ec40c069e9466a97bf05,2024-04-12,2024-04-12 22:40:00+00,Pittsburgh Pirates,5,Philadelphia Phillies,2,Final,night,R,1,,Citizens Bank Park
+6dc8e578826a4ce8134167c779a48df1,2024-04-12,2024-04-12 23:05:00+00,Milwaukee Brewers,11,Baltimore Orioles,1,Final,night,R,1,,Oriole Park at Camden Yards
+092d8d1845acece7fd7e865dbcb22dc7,2024-04-12,2024-04-12 23:07:00+00,Colorado Rockies,12,Toronto Blue Jays,4,Final,night,R,1,,Rogers Centre
+ce7d1341512934d0181f638e028ab4de,2024-04-12,2024-04-12 23:10:00+00,Los Angeles Angels,7,Boston Red Sox,0,Final,night,R,1,,Fenway Park
+39a4b1284019cc80542b12200fa5035e,2024-04-12,2024-04-12 23:10:00+00,Kansas City Royals,1,New York Mets,6,Final,night,R,1,,Citi Field
+03e00c479b97f3f180dd1e628e2c0de2,2024-04-12,2024-04-12 23:10:00+00,Atlanta Braves,8,Miami Marlins,1,Final,night,R,1,,loanDepot park
+b588812ea2021bac0381f261fe424c40,2024-04-12,2024-04-12 23:40:00+00,Cincinnati Reds,11,Chicago White Sox,1,Final,night,R,1,,Guaranteed Rate Field
+226c45bdc23e3d99921381fe3139d3a2,2024-04-12,2024-04-13 00:10:00+00,Texas Rangers,12,Houston Astros,8,Final,night,R,1,,Minute Maid Park
+92d6e78773fa698c470c5b1c195a2064,2024-04-12,2024-04-13 01:40:00+00,Washington Nationals,1,Oakland Athletics,2,Final,night,R,1,,Oakland Coliseum
+4b8f2d4f29767805729c9901e484505e,2024-04-12,2024-04-13 01:40:00+00,Chicago Cubs,2,Seattle Mariners,4,Final,night,R,1,,T-Mobile Park
+06ec0b30ddb34f6ddbb7a209c92d03ba,2024-04-12,2024-04-13 01:40:00+00,St. Louis Cardinals,9,Arizona Diamondbacks,6,Final,night,R,1,,Chase Field
+9a24f550f71e1d4c0ebab0caa37adf60,2024-04-12,2024-04-13 02:10:00+00,San Diego Padres,8,Los Angeles Dodgers,7,Final,night,R,1,,Dodger Stadium
+6ef5e156942ce683aeb0f1527fb2428f,2024-04-13,2024-04-13 16:10:00+00,New York Yankees,3,Cleveland Guardians,2,Final,day,R,1,Makeup of 4/12 PPD,Progressive Field
+6c1bb04476bd3dd7730e2910f7f888b4,2024-04-13,2024-04-13 22:10:00+00,New York Yankees,8,Cleveland Guardians,2,Final,night,R,2,,Progressive Field
+781f2d319f49a75fb4599073dcd191c2,2024-04-13,2024-04-13 17:40:00+00,Kansas City Royals,11,New York Mets,7,Final,day,R,1,,Citi Field
+684154ee8debfa39b5b6af5484850aff,2024-04-13,2024-04-13 18:10:00+00,Cincinnati Reds,5,Chicago White Sox,0,Final,day,R,1,,Guaranteed Rate Field
+9a602de5be7494a297bac58378ddf42b,2024-04-13,2024-04-13 19:07:00+00,Colorado Rockies,3,Toronto Blue Jays,5,Final,day,R,1,,Rogers Centre
+d26a291a737313006fb8bb54eaffb8d6,2024-04-13,2024-04-13 20:05:00+00,Texas Rangers,2,Houston Astros,9,Final,day,R,1,,Minute Maid Park
+619a15be376da5bd0fb94f624b9c79c8,2024-04-13,2024-04-13 20:05:00+00,Pittsburgh Pirates,3,Philadelphia Phillies,4,Final,day,R,1,,Citizens Bank Park
+52d939765756ae03b2e0b9914b352e2a,2024-04-13,2024-04-13 20:05:00+00,Milwaukee Brewers,11,Baltimore Orioles,5,Final,day,R,1,,Oriole Park at Camden Yards
+f1638efa633c089b3c818a9c3b9f887e,2024-04-13,2024-04-13 20:07:00+00,Washington Nationals,3,Oakland Athletics,1,Final,day,R,1,,Oakland Coliseum
+c41e743e954c2ab6b005594d67d52a82,2024-04-13,2024-04-13 20:10:00+00,San Francisco Giants,11,Tampa Bay Rays,2,Final,day,R,1,,Tropicana Field
+694cd131bf08462d21be58f57479e7c8,2024-04-13,2024-04-13 20:10:00+00,Atlanta Braves,1,Miami Marlins,5,Final,day,R,1,,loanDepot park
+9a7bb944a8c6dd31c6ab245bd9940629,2024-04-13,2024-04-14 00:10:00+00,St. Louis Cardinals,2,Arizona Diamondbacks,4,Final,night,R,1,,Chase Field
+401177db65042b57fd1c4916174713dd,2024-04-13,2024-04-14 01:10:00+00,San Diego Padres,2,Los Angeles Dodgers,5,Final,night,R,1,,Dodger Stadium
+2fe5dbdfa3dd9f644e0ffa9f89143a86,2024-04-13,2024-04-14 01:40:00+00,Chicago Cubs,4,Seattle Mariners,1,Final,night,R,1,,T-Mobile Park
+bfba793caa923cd5b64b8c0413b593a0,2024-04-14,2024-04-14 17:35:00+00,Los Angeles Angels,4,Boston Red Sox,5,Final,day,R,1,,Fenway Park
+7a5ce581952ec47de3ca1e8633ceb11e,2024-04-14,2024-04-14 17:35:00+00,Pittsburgh Pirates,9,Philadelphia Phillies,2,Final,day,R,1,,Citizens Bank Park
+8c3dc880a0522eb6c23df93f38bae8f3,2024-04-14,2024-04-14 17:35:00+00,Milwaukee Brewers,4,Baltimore Orioles,6,Final,day,R,1,,Oriole Park at Camden Yards
+a4006aadf4c1748a6a1fc9087b4ea123,2024-04-14,2024-04-14 17:37:00+00,Colorado Rockies,0,Toronto Blue Jays,5,Final,day,R,1,,Rogers Centre
+146949cbe355563d1cba747d148597be,2024-04-14,2024-04-14 17:40:00+00,Kansas City Royals,1,New York Mets,2,Final,day,R,1,,Citi Field
+d7e7e573ed22c1413674a9e953482ea2,2024-04-14,2024-04-14 17:40:00+00,San Francisco Giants,4,Tampa Bay Rays,9,Final,day,R,1,,Tropicana Field
+59912bcfa708d042466fac261b21a30a,2024-04-14,2024-04-14 17:40:00+00,Minnesota Twins,3,Detroit Tigers,4,Final,day,R,1,,Comerica Park
+65a70145889e66c4de4ba78dd1f890d5,2024-04-14,2024-04-14 17:40:00+00,Atlanta Braves,9,Miami Marlins,7,Final,day,R,1,,loanDepot park
+8cc290dfc031af715f74ace94a7dc4b6,2024-04-14,2024-04-14 17:40:00+00,New York Yankees,7,Cleveland Guardians,8,Final,day,R,1,,Progressive Field
+afcd878b459ba3cdbe8fa5c3a9047372,2024-04-14,2024-04-14 18:10:00+00,Texas Rangers,5,Houston Astros,8,Final,day,R,1,,Minute Maid Park
+339f90f04f86adb8084bcfa703d12528,2024-04-14,2024-04-14 18:10:00+00,Cincinnati Reds,11,Chicago White Sox,4,Final,day,R,1,,Guaranteed Rate Field
+a4225f261f9ef123751e840bf44faf19,2024-04-14,2024-04-14 20:07:00+00,Washington Nationals,6,Oakland Athletics,7,Final,day,R,1,,Oakland Coliseum
+e89e2908afd23f57845c65236e3fd32f,2024-04-14,2024-04-14 20:10:00+00,Chicago Cubs,3,Seattle Mariners,2,Final,day,R,1,,T-Mobile Park
+51542ef0db92224396c0b0dbdba4f294,2024-04-14,2024-04-14 20:10:00+00,St. Louis Cardinals,0,Arizona Diamondbacks,5,Final,day,R,1,,Chase Field
+da1b6230943e72d23609520bd556b975,2024-04-14,2024-04-14 23:10:00+00,San Diego Padres,6,Los Angeles Dodgers,3,Final,day,R,1,,Dodger Stadium
+7a56c4609829cd508efcb70e13606142,2024-04-15,2024-04-15 15:10:00+00,Cleveland Guardians,6,Boston Red Sox,0,Final,day,R,1,Jackie Robinson Day,Fenway Park
+4bb4cebf6b29ce35292f5775892531ec,2024-04-15,2024-04-15 22:35:00+00,Minnesota Twins,4,Baltimore Orioles,7,Final,night,R,1,Jackie Robinson Day,Oriole Park at Camden Yards
+4d25de8922ff8fd1d5b946681199e3b0,2024-04-15,2024-04-15 22:40:00+00,Texas Rangers,1,Detroit Tigers,0,Final,night,R,1,Jackie Robinson Day,Comerica Park
+d19c9c2e802c8789d097399979f3610a,2024-04-15,2024-04-15 22:40:00+00,Colorado Rockies,1,Philadelphia Phillies,2,Final,night,R,1,Jackie Robinson Day,Citizens Bank Park
+2d86beb7d19b4e688b3ad2d3480a1856,2024-04-15,2024-04-15 22:40:00+00,San Francisco Giants,4,Miami Marlins,3,Final,night,R,1,Jackie Robinson Day,loanDepot park
+69b6afcaf1dd4132bd9ab9d3861f1848,2024-04-15,2024-04-15 22:50:00+00,Los Angeles Angels,7,Tampa Bay Rays,3,Final,night,R,1,Jackie Robinson Day,Tropicana Field
+a3e63e77c0d1a683f47ce738742b62e9,2024-04-15,2024-04-15 23:07:00+00,New York Yankees,1,Toronto Blue Jays,3,Final,night,R,1,Jackie Robinson Day,Rogers Centre
+e10dacfab9cd31def1c2065b844beafa,2024-04-15,2024-04-15 23:10:00+00,Pittsburgh Pirates,3,New York Mets,6,Final,night,R,1,Jackie Robinson Day,Citi Field
+911eb5e619e5a2b15f70e1bc0940d6fc,2024-04-15,2024-04-15 23:40:00+00,Kansas City Royals,2,Chicago White Sox,0,Final,night,R,1,Jackie Robinson Day,Guaranteed Rate Field
+d1dc3cde599e116757c76eab25320158,2024-04-15,2024-04-15 23:40:00+00,San Diego Padres,7,Milwaukee Brewers,3,Final,night,R,1,Jackie Robinson Day,American Family Field
+bfc5675dcc77bbd0c6b56fa189eabee7,2024-04-15,2024-04-16 00:10:00+00,Atlanta Braves,6,Houston Astros,1,Final,night,R,1,Jackie Robinson Day,Minute Maid Park
+de656ba718cd00e0dd2422487353f543,2024-04-15,2024-04-16 01:40:00+00,Chicago Cubs,3,Arizona Diamondbacks,2,Final,night,R,1,Jackie Robinson Day,Chase Field
+d1856529f29e1ed6d2148988b19f0daf,2024-04-15,2024-04-16 01:40:00+00,St. Louis Cardinals,3,Oakland Athletics,1,Final,night,R,1,Jackie Robinson Day,Oakland Coliseum
+5649ee2527d8debe028323ec608f7f34,2024-04-15,2024-04-16 01:42:00+00,Cincinnati Reds,3,Seattle Mariners,9,Final,night,R,1,Jackie Robinson Day,T-Mobile Park
+0aace6815d29e2a3e91e80be8e3602c1,2024-04-15,2024-04-16 02:10:00+00,Washington Nationals,6,Los Angeles Dodgers,4,Final,night,R,1,Jackie Robinson Day,Dodger Stadium
+bb00866a6483afe6b2fd96719de1ea4e,2024-04-16,2024-04-16 17:10:00+00,Texas Rangers,2,Detroit Tigers,4,Final,day,R,1,,Comerica Park
+8a83db6cb582713adf7de3ac881e9e47,2024-04-16,2024-04-16 22:35:00+00,Minnesota Twins,3,Baltimore Orioles,11,Final,night,R,1,,Oriole Park at Camden Yards
+730922dbfd8595951b56e22f75b70167,2024-04-16,2024-04-16 22:40:00+00,Colorado Rockies,0,Philadelphia Phillies,5,Final,night,R,1,,Citizens Bank Park
+c70aa1ef4c530cfdbb931bfdf063dae9,2024-04-16,2024-04-16 22:40:00+00,San Francisco Giants,3,Miami Marlins,6,Final,night,R,1,,loanDepot park
+cc1c334f0ee535547b4ac22f5545edd8,2024-04-16,2024-04-16 22:50:00+00,Los Angeles Angels,6,Tampa Bay Rays,7,Final,night,R,1,,Tropicana Field
+3f03fe9561d7e676510f4d1b87165a26,2024-04-16,2024-04-16 23:07:00+00,New York Yankees,4,Toronto Blue Jays,5,Final,night,R,1,,Rogers Centre
+941243cf1bc28576b196b5d49f2a349c,2024-04-16,2024-04-16 23:10:00+00,Cleveland Guardians,10,Boston Red Sox,7,Final,night,R,1,,Fenway Park
+204fdf2332f345db5d7df5510f8c0bcb,2024-04-16,2024-04-16 23:10:00+00,Pittsburgh Pirates,1,New York Mets,3,Final,night,R,1,,Citi Field
+a3f3ec053e1426830044c0a9ac9322bb,2024-04-16,2024-04-16 23:40:00+00,San Diego Padres,6,Milwaukee Brewers,3,Final,night,R,1,,American Family Field
+4583a82877a84038378ea1292c92e7e7,2024-04-16,2024-04-17 00:10:00+00,Atlanta Braves,6,Houston Astros,2,Final,night,R,1,,Minute Maid Park
+5ceb3b0ed68185a4678257a3d9cb87d5,2024-04-16,2024-04-17 01:40:00+00,Chicago Cubs,11,Arizona Diamondbacks,12,Final,night,R,1,,Chase Field
+6d73ebcdb68ce1a130cb7b637bc923a1,2024-04-16,2024-04-17 01:40:00+00,Cincinnati Reds,1,Seattle Mariners,3,Final,night,R,1,,T-Mobile Park
+a15863d1d0f34af5de7b752730ef06c3,2024-04-16,2024-04-17 01:40:00+00,St. Louis Cardinals,3,Oakland Athletics,2,Final,night,R,1,,Oakland Coliseum
+66f793ae0ee7e9198c7dffb2d8fa4e85,2024-04-16,2024-04-17 02:10:00+00,Washington Nationals,2,Los Angeles Dodgers,6,Final,night,R,1,,Dodger Stadium
+5139cdd601710eb3615e4e0ca1b9a2e0,2024-04-17,2024-04-17 16:10:00+00,San Francisco Giants,3,Miami Marlins,1,Final,day,R,1,,loanDepot park
+b91e30ad461f851b64a1152b7487c92d,2024-04-17,2024-04-17 17:05:00+00,Minnesota Twins,2,Baltimore Orioles,4,Final,day,R,1,,Oriole Park at Camden Yards
+7bd6eb2bb6b7fadaafc066744714be56,2024-04-17,2024-04-17 17:10:00+00,Pittsburgh Pirates,1,New York Mets,9,Final,day,R,1,,Citi Field
+d6197d18aa9b9ad94030c7338deb8a5f,2024-04-17,2024-04-17 17:10:00+00,Texas Rangers,5,Detroit Tigers,4,Final,day,R,1,,Comerica Park
+76d84dcb05028c36afefbcbb88f83408,2024-04-17,2024-04-17 17:10:00+00,San Diego Padres,0,Milwaukee Brewers,1,Final,day,R,1,,American Family Field
+a9b1573e0f3e0bdec5e1f6cf1aea1c95,2024-04-17,2024-04-17 18:10:00+00,Atlanta Braves,5,Houston Astros,4,Final,day,R,1,,Minute Maid Park
+9b3f590ea3804f811c976d532ac41c50,2024-04-17,2024-04-17 18:10:00+00,Kansas City Royals,4,Chicago White Sox,2,Final,day,R,1,,Guaranteed Rate Field
+fd824ad54f6b427bda957e5114506017,2024-04-17,2024-04-17 19:07:00+00,New York Yankees,6,Toronto Blue Jays,4,Final,day,R,1,,Rogers Centre
+798b13136747a072782866d419886918,2024-04-17,2024-04-17 19:10:00+00,Washington Nationals,2,Los Angeles Dodgers,0,Final,day,R,1,,Dodger Stadium
+5d4a0cdf9d7e34fb9d1e803a9db41bf3,2024-04-17,2024-04-17 19:37:00+00,St. Louis Cardinals,3,Oakland Athletics,6,Final,day,R,1,,Oakland Coliseum
+c33ec52ecc9e4b5f2220121e21ea7700,2024-04-17,2024-04-17 19:40:00+00,Chicago Cubs,5,Arizona Diamondbacks,3,Final,day,R,1,,Chase Field
+75aaae3ea8ca5c1f194d1e19da54e61e,2024-04-17,2024-04-17 20:10:00+00,Cincinnati Reds,1,Seattle Mariners,5,Final,day,R,1,,T-Mobile Park
+033233fd380d7d3c900aacde0f687ed0,2024-04-17,2024-04-17 22:05:00+00,Colorado Rockies,6,Philadelphia Phillies,7,Final,night,R,1,,Citizens Bank Park
+e79f673c076af4448406135b294337ee,2024-04-17,2024-04-17 22:50:00+00,Los Angeles Angels,5,Tampa Bay Rays,4,Final,night,R,1,,Tropicana Field
+8e74b7350621a51bcfc64e5831943917,2024-04-17,2024-04-17 23:10:00+00,Cleveland Guardians,0,Boston Red Sox,2,Final,night,R,1,,Fenway Park
+54470fb8611b9bd47acb3898ba651253,2024-04-18,2024-04-18 17:10:00+00,Los Angeles Angels,1,Tampa Bay Rays,2,Final,day,R,1,,Tropicana Field
+5934db5af2b0852e3011dd25cbe608f5,2024-04-18,2024-04-18 17:10:00+00,Texas Rangers,9,Detroit Tigers,7,Final,day,R,1,,Comerica Park
+8e81105662112ae102b00df904fcec03,2024-04-18,2024-04-18 17:35:00+00,Cleveland Guardians,5,Boston Red Sox,4,Final,day,R,1,,Fenway Park
+fba13899db664e8f6a41caa2ff93765f,2024-04-18,2024-04-19 01:45:00+00,Arizona Diamondbacks,0,San Francisco Giants,5,Final,night,R,1,,Oracle Park
+557065ecc9dde9994e74019746d808d0,2024-04-19,2024-04-19 18:20:00+00,Miami Marlins,3,Chicago Cubs,8,Final,day,R,1,,Wrigley Field
+e21592d5719dbb60a11d8dc888baa326,2024-04-19,2024-04-19 22:40:00+00,Los Angeles Angels,1,Cincinnati Reds,7,Final,night,R,1,,Great American Ball Park
+bcd5d586bc8409acac8c1761fa9c2ae1,2024-04-19,2024-04-19 22:40:00+00,Boston Red Sox,8,Pittsburgh Pirates,1,Final,night,R,1,,PNC Park
+73784d1198ff4cc8712d952207ac4444,2024-04-19,2024-04-19 22:40:00+00,Chicago White Sox,0,Philadelphia Phillies,7,Final,night,R,1,,Citizens Bank Park
+475993ac06fe76c35305ac1138b8d3ce,2024-04-19,2024-04-19 22:45:00+00,Houston Astros,5,Washington Nationals,3,Final,night,R,1,,Nationals Park
+7d83523a0c6de68cd2e82fe56396a1ed,2024-04-19,2024-04-19 23:05:00+00,Tampa Bay Rays,3,New York Yankees,5,Final,night,R,1,,Yankee Stadium
+c058a9594eeae8f6986cb08e80487e6a,2024-04-19,2024-04-19 23:10:00+00,Oakland Athletics,2,Cleveland Guardians,10,Final,night,R,1,,Progressive Field
+b36448738564fcda03c5ea5e32d90fe3,2024-04-19,2024-04-19 23:20:00+00,Texas Rangers,3,Atlanta Braves,8,Final,night,R,1,,Truist Park
+c7835baf4186f378b4997b7caaa82aae,2024-04-19,2024-04-19 23:40:00+00,Baltimore Orioles,4,Kansas City Royals,9,Final,night,R,1,,Kauffman Stadium
+fcff66c0d5c63ee9292827135849c7bf,2024-04-19,2024-04-20 00:10:00+00,Detroit Tigers,5,Minnesota Twins,4,Final,night,R,1,,Target Field
+5a51f2c825ac3e5ac6881f8477feee2a,2024-04-19,2024-04-20 00:15:00+00,Milwaukee Brewers,2,St. Louis Cardinals,1,Final,night,R,1,,Busch Stadium
+e4dc87519f9ff4e4db9c19ca969acd06,2024-04-19,2024-04-20 01:40:00+00,Toronto Blue Jays,5,San Diego Padres,1,Final,night,R,1,,Petco Park
+b09bf591c9a8d2bf46757f27dd978e18,2024-04-19,2024-04-20 02:10:00+00,New York Mets,9,Los Angeles Dodgers,4,Final,night,R,1,,Dodger Stadium
+5eed5633ba49a4e6cd0cce3f0e3e23a9,2024-04-19,2024-04-20 02:15:00+00,Arizona Diamondbacks,17,San Francisco Giants,1,Final,night,R,1,,Oracle Park
+b45689ee81ec2f8398cdbf1ef62c752a,2024-04-20,2024-04-20 17:05:00+00,Tampa Bay Rays,2,New York Yankees,0,Final,day,R,1,,Yankee Stadium
+2cdce6b9da71e3696b8b785f7148aecb,2024-04-20,2024-04-20 18:10:00+00,Detroit Tigers,3,Minnesota Twins,4,Final,day,R,1,,Target Field
+3ea81b4c9eb31d21c54ed3249269baea,2024-04-20,2024-04-20 18:15:00+00,Milwaukee Brewers,12,St. Louis Cardinals,5,Final,day,R,1,,Busch Stadium
+64cb6867683587613c74903343f0f003,2024-04-20,2024-04-20 18:20:00+00,Miami Marlins,3,Chicago Cubs,2,Final,day,R,1,,Wrigley Field
+cd7ed3abdbbc39e86d25c2025dffafe3,2024-04-20,2024-04-20 23:40:00+00,Miami Marlins,3,Chicago Cubs,5,Final,night,R,2,Makeup of 4/18 PPD,Wrigley Field
+6e0c081774c0d2dc78d335ed7b55aeb0,2024-04-20,2024-04-20 20:05:00+00,Houston Astros,4,Washington Nationals,5,Final,day,R,1,,Nationals Park
+0b63a85defc10a195ac2bd54bfa10395,2024-04-20,2024-04-20 20:05:00+00,New York Mets,6,Los Angeles Dodgers,4,Final,day,R,1,,Dodger Stadium
+55c50784806564f1c4c590577aa83888,2024-04-20,2024-04-20 20:05:00+00,Boston Red Sox,4,Pittsburgh Pirates,2,Final,day,R,1,,PNC Park
+e1b85c5efe6916f7c1fc4bec04182210,2024-04-20,2024-04-20 20:05:00+00,Arizona Diamondbacks,3,San Francisco Giants,7,Final,day,R,1,,Oracle Park
+71a7b306097d09a34b2ae0c78ce4c61a,2024-04-20,2024-04-20 22:05:00+00,Chicago White Sox,5,Philadelphia Phillies,9,Final,night,R,1,,Citizens Bank Park
+f464e9e058570531096978652c5466e3,2024-04-20,2024-04-20 22:10:00+00,Oakland Athletics,3,Cleveland Guardians,6,Final,night,R,1,,Progressive Field
+03c06b8eb5afc5baa81d268801189abc,2024-04-20,2024-04-20 22:40:00+00,Los Angeles Angels,5,Cincinnati Reds,7,Final,night,R,1,,Great American Ball Park
+81ae89a2b8c1d3efde9b8fde2478d37d,2024-04-20,2024-04-20 23:10:00+00,Baltimore Orioles,9,Kansas City Royals,7,Final,night,R,1,,Kauffman Stadium
+76327ab0263aa7e74a2ee020f590995e,2024-04-20,2024-04-20 23:20:00+00,Texas Rangers,2,Atlanta Braves,5,Final,night,R,1,,Truist Park
+a46cb6c2551f5f7dc4b0088d08b0ef5a,2024-04-20,2024-04-21 00:10:00+00,Seattle Mariners,7,Colorado Rockies,0,Final,night,R,1,,Coors Field
+c06d629bc0838e8b6c2b46d02883375d,2024-04-20,2024-04-21 00:40:00+00,Toronto Blue Jays,5,San Diego Padres,2,Final,night,R,1,,Petco Park
+005e11b769d614def43922c7da63a102,2024-04-21,2024-04-21 17:35:00+00,Houston Astros,0,Washington Nationals,6,Final,day,R,1,,Nationals Park
+1e62aec8bb5950c691bfab4824dc7115,2024-04-21,2024-04-21 17:35:00+00,Boston Red Sox,6,Pittsburgh Pirates,1,Final,day,R,1,,PNC Park
+d7ba265f218120f15eb75626bd87cc9a,2024-04-21,2024-04-21 17:35:00+00,Chicago White Sox,2,Philadelphia Phillies,8,Final,day,R,1,,Citizens Bank Park
+d3a3ad9bfa0d2633352a30113b350a5d,2024-04-21,2024-04-21 17:35:00+00,Tampa Bay Rays,4,New York Yankees,5,Final,day,R,1,,Yankee Stadium
+82a1e5569fe474eba3edbcda111add27,2024-04-21,2024-04-21 17:40:00+00,Los Angeles Angels,0,Cincinnati Reds,3,Final,day,R,1,,Great American Ball Park
+016626e0b6b6a9eab86a394485545b66,2024-04-21,2024-04-21 17:40:00+00,Oakland Athletics,2,Cleveland Guardians,6,Final,day,R,1,,Progressive Field
+a5770834c6b12d1b8b35f4a0ebca443e,2024-04-24,2024-04-24 23:40:00+00,Chicago White Sox,3,Minnesota Twins,6,Final,night,R,1,,Target Field
+b89d113e6af3638c682d36d708c824cb,2024-04-21,2024-04-21 18:10:00+00,Baltimore Orioles,5,Kansas City Royals,0,Final,day,R,1,,Kauffman Stadium
+2855d275ac823f2d811ce0ab3da5e8b7,2024-04-21,2024-04-21 18:10:00+00,Detroit Tigers,6,Minnesota Twins,1,Final,day,R,1,,Target Field
+a8970bdd40cb42e9c3a0a828a8e32dd4,2024-04-21,2024-04-21 18:15:00+00,Milwaukee Brewers,2,St. Louis Cardinals,0,Final,day,R,1,,Busch Stadium
+cb12d3fff35442a57b31e5f56d7448ad,2024-04-21,2024-04-21 18:20:00+00,Miami Marlins,6,Chicago Cubs,3,Final,day,R,1,,Wrigley Field
+45a810f68872da847d6b3becad32aa3f,2024-04-21,2024-04-21 19:10:00+00,Seattle Mariners,1,Colorado Rockies,2,Final,day,R,1,,Coors Field
+ccbf2c9c4a3bd010e78958e6aacb76f6,2024-04-21,2024-04-22 00:10:00+00,Seattle Mariners,10,Colorado Rockies,2,Final,night,R,2,Makeup of 4/19 PPD,Coors Field
+21b6ed063f694db4e7cdecc8f7ad806d,2024-04-21,2024-04-21 20:05:00+00,Arizona Diamondbacks,5,San Francisco Giants,3,Final,day,R,1,,Oracle Park
+38fd2f47517ea3e9ba12544a5a8eabb6,2024-04-21,2024-04-21 20:10:00+00,New York Mets,0,Los Angeles Dodgers,10,Final,day,R,1,,Dodger Stadium
+00a4851de5882e01389107b7318fb307,2024-04-21,2024-04-21 20:10:00+00,Toronto Blue Jays,3,San Diego Padres,6,Final,day,R,1,,Petco Park
+46bad84e66e5c51d6b5d8e4b54a07fc7,2024-04-21,2024-04-21 23:10:00+00,Texas Rangers,6,Atlanta Braves,4,Final,night,R,1,,Truist Park
+d6f47a21c9a0980edc331f403821b96a,2024-04-22,2024-04-22 17:05:00+00,Oakland Athletics,2,New York Yankees,0,Final,day,R,1,,Yankee Stadium
+2b8730a2d062752e6b2fc0c67138e37d,2024-04-22,2024-04-22 22:40:00+00,Philadelphia Phillies,7,Cincinnati Reds,0,Final,night,R,1,,Great American Ball Park
+e67813c1e1cee34d067e4bd168615313,2024-04-22,2024-04-22 22:40:00+00,Milwaukee Brewers,2,Pittsburgh Pirates,4,Final,night,R,1,,PNC Park
+afb3c8409b38fe4c9e7be0cec5a6cae2,2024-04-22,2024-04-22 22:50:00+00,Detroit Tigers,7,Tampa Bay Rays,1,Final,night,R,1,,Tropicana Field
+ac089948df92d146990c70eedd0dbaaa,2024-04-22,2024-04-22 23:20:00+00,Miami Marlins,0,Atlanta Braves,3,Final,night,R,1,,Truist Park
+f8d7d00bfbe5c13ca697bb696e880969,2024-04-22,2024-04-22 23:40:00+00,Toronto Blue Jays,5,Kansas City Royals,3,Final,night,R,1,,Kauffman Stadium
+2d531c1fa87707b86d27b5efc87e1bdf,2024-04-22,2024-04-22 23:40:00+00,Chicago White Sox,0,Minnesota Twins,7,Final,night,R,1,,Target Field
+e1eafb8d9e5ab04c0a6e852a3ad72c3f,2024-04-22,2024-04-22 23:45:00+00,Arizona Diamondbacks,3,St. Louis Cardinals,5,Final,night,R,1,,Busch Stadium
+cdd1a83d7c15ce5c3d79aebd65c8f3f4,2024-04-22,2024-04-23 00:40:00+00,San Diego Padres,3,Colorado Rockies,1,Final,night,R,1,,Coors Field
+77141ed74209c93101d7a84f30dbb721,2024-04-22,2024-04-23 01:38:00+00,Baltimore Orioles,4,Los Angeles Angels,2,Final,night,R,1,,Angel Stadium
+df6d58d2d972646454db7798a9eed23a,2024-04-22,2024-04-23 01:45:00+00,New York Mets,2,San Francisco Giants,5,Final,night,R,1,,Oracle Park
+bc28d151af7bb0869298af800a1f9a51,2024-04-23,2024-04-23 22:10:00+00,Boston Red Sox,1,Cleveland Guardians,4,Final,night,R,1,,Progressive Field
+480de76bfcfaa1db5719291f116e45d0,2024-04-23,2024-04-23 22:40:00+00,Philadelphia Phillies,1,Cincinnati Reds,8,Final,night,R,1,,Great American Ball Park
+4eaed644ac835163f72753073f8ab70e,2024-04-23,2024-04-23 22:40:00+00,Milwaukee Brewers,1,Pittsburgh Pirates,2,Final,night,R,1,,PNC Park
+25873031761f7c87c9a734612ee988ac,2024-04-23,2024-04-23 22:45:00+00,Los Angeles Dodgers,4,Washington Nationals,1,Final,night,R,1,,Nationals Park
+6175272ab9830fdb19e1b23da9797bfc,2024-04-23,2024-04-23 22:50:00+00,Detroit Tigers,4,Tampa Bay Rays,2,Final,night,R,1,,Tropicana Field
+f321366cb3519be3a919e556ad88059f,2024-04-23,2024-04-23 23:05:00+00,Oakland Athletics,3,New York Yankees,4,Final,night,R,1,,Yankee Stadium
+5d932c935739a56890ad05cdafada8bc,2024-04-23,2024-04-23 23:20:00+00,Miami Marlins,0,Atlanta Braves,5,Final,night,R,1,,Truist Park
+767889554f282fa81403f03cfe058bf2,2024-04-23,2024-04-23 23:40:00+00,Houston Astros,2,Chicago Cubs,7,Final,night,R,1,,Wrigley Field
+ededa8a14c0e7374baf42e294f1945b1,2024-04-23,2024-04-23 23:40:00+00,Toronto Blue Jays,2,Kansas City Royals,3,Final,night,R,1,,Kauffman Stadium
+8ea7dd1d29b649f2e7e9f96f93561da0,2024-04-23,2024-04-23 23:40:00+00,Chicago White Sox,5,Minnesota Twins,6,Final,night,R,1,,Target Field
+4b3029c477478dd99081bc2ab9737066,2024-04-23,2024-04-23 23:45:00+00,Arizona Diamondbacks,14,St. Louis Cardinals,1,Final,night,R,1,,Busch Stadium
+8814be623a71f3eeb3648aa062f87fa2,2024-04-23,2024-04-24 00:05:00+00,Seattle Mariners,4,Texas Rangers,0,Final,night,R,1,,Globe Life Field
+a15c940b75fa8a25d1c96f7bfae8da81,2024-04-23,2024-04-24 00:40:00+00,San Diego Padres,4,Colorado Rockies,7,Final,night,R,1,,Coors Field
+38a02d8367d69188f18189cb8303ce57,2024-04-23,2024-04-24 01:38:00+00,Baltimore Orioles,4,Los Angeles Angels,7,Final,night,R,1,,Angel Stadium
+caf45d14a9f9bec90d709bfe54d60815,2024-04-23,2024-04-24 01:45:00+00,New York Mets,1,San Francisco Giants,5,Final,night,R,1,,Oracle Park
+d456e882d5efaf20caedf80392f35852,2024-04-24,2024-04-24 17:15:00+00,Arizona Diamondbacks,1,St. Louis Cardinals,5,Final,day,R,1,,Busch Stadium
+2ab9f108c2b67ed41bce283b9cca4bb4,2024-04-24,2024-04-24 19:45:00+00,New York Mets,8,San Francisco Giants,2,Final,day,R,1,,Oracle Park
+0a53624a6e022449adee3cef5bce6651,2024-04-24,2024-04-24 20:07:00+00,Baltimore Orioles,6,Los Angeles Angels,5,Final,day,R,1,,Angel Stadium
+75d69fd08e58ad89045ae48dbdaf4591,2024-04-24,2024-04-24 22:10:00+00,Boston Red Sox,8,Cleveland Guardians,0,Final,night,R,1,,Progressive Field
+379612f9e00eb8fd2124a36e9e296b96,2024-04-24,2024-04-24 22:40:00+00,Philadelphia Phillies,4,Cincinnati Reds,7,Final,night,R,1,,Great American Ball Park
+68e88cb06b767320ea2d90312208beb8,2024-04-24,2024-04-24 22:40:00+00,Milwaukee Brewers,3,Pittsburgh Pirates,2,Final,night,R,1,,PNC Park
+955265e9b574ef00ca2b96ad7fd3c068,2024-04-24,2024-04-24 22:45:00+00,Los Angeles Dodgers,11,Washington Nationals,2,Final,night,R,1,,Nationals Park
+75716a60d8a6b0bc1ec7000b306088ca,2024-04-24,2024-04-24 22:50:00+00,Detroit Tigers,5,Tampa Bay Rays,7,Final,night,R,1,,Tropicana Field
+f8e75aa70028f3304125629a4fae65c8,2024-04-24,2024-04-24 23:05:00+00,Oakland Athletics,3,New York Yankees,7,Final,night,R,1,,Yankee Stadium
+f96bc60ae496416337737b2f0a48528f,2024-04-24,2024-04-24 23:20:00+00,Miami Marlins,3,Atlanta Braves,4,Final,night,R,1,,Truist Park
+4b693573876d85d4290cebe779bbb6c6,2024-04-24,2024-04-24 23:40:00+00,Houston Astros,3,Chicago Cubs,4,Final,night,R,1,,Wrigley Field
+0035e0c74ff1cb8ce6d0aa914c749bc2,2024-04-24,2024-04-24 23:40:00+00,Toronto Blue Jays,2,Kansas City Royals,3,Final,night,R,1,,Kauffman Stadium
+21095ac9d9e6ddac864c35da1c56341c,2024-04-24,2024-04-25 00:05:00+00,Seattle Mariners,1,Texas Rangers,5,Final,night,R,1,,Globe Life Field
+94bb3d077181eb09ec854677194c6385,2024-04-25,2024-04-25 16:35:00+00,Milwaukee Brewers,7,Pittsburgh Pirates,5,Final,day,R,1,,PNC Park
+f66aa4a068c28db4821d58247df4de1a,2024-04-25,2024-04-25 17:10:00+00,Boston Red Sox,4,Cleveland Guardians,6,Final,day,R,1,,Progressive Field
+4eaf33b7ce9ee2d505935e660d5209fa,2024-04-25,2024-04-25 17:10:00+00,Philadelphia Phillies,5,Cincinnati Reds,0,Final,day,R,1,,Great American Ball Park
+027b268a3a8c39d655c9dfcce936035e,2024-04-25,2024-04-25 17:10:00+00,Chicago White Sox,3,Minnesota Twins,6,Final,day,R,1,,Target Field
+a8987ea22323ff0b4008df6e62b67573,2024-04-25,2024-04-25 18:20:00+00,Houston Astros,1,Chicago Cubs,3,Final,day,R,1,,Wrigley Field
+2fcc76bec0f1f2c98e13550c9c4b62bc,2024-04-25,2024-04-25 18:35:00+00,Seattle Mariners,4,Texas Rangers,3,Final,day,R,1,,Globe Life Field
+186a7db22526f42e61f4e7e04a297aef,2024-04-25,2024-04-25 19:10:00+00,San Diego Padres,9,Colorado Rockies,10,Final,day,R,1,,Coors Field
+e07f81447ec2e4946484cef60bf04adf,2024-04-25,2024-04-25 20:05:00+00,Los Angeles Dodgers,2,Washington Nationals,1,Final,day,R,1,,Nationals Park
+9949953e7b96db373915f1d572f9fdb5,2024-04-25,2024-04-25 23:05:00+00,Oakland Athletics,3,New York Yankees,1,Final,night,R,1,,Yankee Stadium
+e239e4ddf5fda3e341cb41ef1b0c1d73,2024-04-26,2024-04-26 17:10:00+00,Kansas City Royals,8,Detroit Tigers,0,Final,day,R,1,,Comerica Park
+cdb9054260eb5c3f3485fcf2656cc48e,2024-04-26,2024-04-26 23:05:00+00,Oakland Athletics,3,Baltimore Orioles,2,Final,night,R,1,,Oriole Park at Camden Yards
+7b565ca44afff549437c814a31170cfd,2024-04-26,2024-04-26 23:07:00+00,Los Angeles Dodgers,12,Toronto Blue Jays,2,Final,night,R,1,,Rogers Centre
+3bb5bca328f30cafa691d69be6df5efd,2024-04-26,2024-04-26 23:10:00+00,Chicago Cubs,7,Boston Red Sox,1,Final,night,R,1,,Fenway Park
+05c75bc4adc2f4c767753deb5d813daf,2024-04-26,2024-04-26 23:10:00+00,St. Louis Cardinals,4,New York Mets,2,Final,night,R,1,,Citi Field
+e9ddb28848617f2dcb255f45688b1f71,2024-04-26,2024-04-26 23:10:00+00,Washington Nationals,3,Miami Marlins,1,Final,night,R,1,,loanDepot park
+bdda801761be8a55f158594b2a4f0155,2024-04-26,2024-04-26 23:20:00+00,Cleveland Guardians,2,Atlanta Braves,6,Final,night,R,1,,Truist Park
+75eecd00299c743d3414120490b46b85,2024-04-26,2024-04-26 23:40:00+00,Tampa Bay Rays,4,Chicago White Sox,9,Final,night,R,1,,Guaranteed Rate Field
+1865c2c56f73a58f13dcd39d26ccd2fa,2024-04-26,2024-04-27 00:05:00+00,Cincinnati Reds,1,Texas Rangers,2,Final,night,R,1,,Globe Life Field
+0a6e2838fd534aabc1478643719e1e7b,2024-04-26,2024-04-27 00:10:00+00,New York Yankees,6,Milwaukee Brewers,7,Final,night,R,1,,American Family Field
+647a3170935c2cb5766ef23ebf78bca2,2024-04-26,2024-04-27 01:38:00+00,Minnesota Twins,5,Los Angeles Angels,3,Final,night,R,1,,Angel Stadium
+b77ec37ab541ba6d18fa141625827b5c,2024-04-26,2024-04-27 01:40:00+00,Arizona Diamondbacks,1,Seattle Mariners,6,Final,night,R,1,,T-Mobile Park
+b1517294dc1f8022c490fed05792b95b,2024-04-26,2024-04-27 01:40:00+00,Philadelphia Phillies,9,San Diego Padres,3,Final,night,R,1,,Petco Park
+735fec03757c8796aaa93cb9693906d3,2024-04-26,2024-04-27 02:15:00+00,Pittsburgh Pirates,0,San Francisco Giants,3,Final,night,R,1,,Oracle Park
+04c56f32fc8c6b18a3b6d02e343d8313,2024-04-27,2024-04-27 19:07:00+00,Los Angeles Dodgers,4,Toronto Blue Jays,2,Final,day,R,1,,Rogers Centre
+401c4c82bed594729458158eff163a7e,2024-04-27,2024-04-27 20:05:00+00,Oakland Athletics,0,Baltimore Orioles,7,Final,day,R,1,,Oriole Park at Camden Yards
+a6a1e6572ada9b770fcd19ab4acbe8db,2024-04-27,2024-04-27 20:05:00+00,St. Louis Cardinals,7,New York Mets,4,Final,day,R,1,,Citi Field
+a3a95ed9c794b7e124e89ddb3513a7a9,2024-04-27,2024-04-27 20:05:00+00,Cincinnati Reds,8,Texas Rangers,4,Final,day,R,1,,Globe Life Field
+8d1cf070854a4e6d4a9d36b27345edca,2024-04-27,2024-04-27 20:10:00+00,Chicago Cubs,0,Boston Red Sox,17,Final,day,R,1,,Fenway Park
+f6fcb4e924d61c1553fb858c5b6d6840,2024-04-27,2024-04-27 20:10:00+00,Washington Nationals,11,Miami Marlins,4,Final,day,R,1,,loanDepot park
+3ccd92ca51736aa2c7b469d2c89cbaa6,2024-04-27,2024-04-27 22:05:00+00,Houston Astros,12,Colorado Rockies,4,Final,night,R,1,"in Mexico City, MX",Estadio Alfredo Harp Helu
+27bca0fd164013a5de6c6372f7533c84,2024-04-27,2024-04-27 22:10:00+00,Kansas City Royals,5,Detroit Tigers,6,Final,night,R,1,,Comerica Park
+a397f025d6903a825db9be4dfd327d15,2024-04-27,2024-04-27 23:10:00+00,Tampa Bay Rays,7,Chicago White Sox,8,Final,night,R,1,,Guaranteed Rate Field
+9080fcc32f31a5d602464b1e08cd72b9,2024-04-27,2024-04-27 23:10:00+00,New York Yankees,15,Milwaukee Brewers,3,Final,night,R,1,,American Family Field
+a3684ad8743b588be0e7f6a869ab4d04,2024-04-27,2024-04-27 23:20:00+00,Cleveland Guardians,4,Atlanta Braves,2,Final,night,R,1,,Truist Park
+85110884cfa4b036916f03c5c8a2f8fe,2024-04-27,2024-04-28 00:40:00+00,Philadelphia Phillies,5,San Diego Padres,1,Final,night,R,1,,Petco Park
+bbf36c607c7acc2c2de84de90075158d,2024-04-27,2024-04-28 01:05:00+00,Pittsburgh Pirates,4,San Francisco Giants,3,Final,night,R,1,,Oracle Park
+c13c504c37c7d07557016c060846cad5,2024-04-27,2024-04-28 01:38:00+00,Minnesota Twins,16,Los Angeles Angels,5,Final,night,R,1,,Angel Stadium
+8676dc27159f2a545d45173f96219326,2024-04-27,2024-04-28 01:40:00+00,Arizona Diamondbacks,1,Seattle Mariners,3,Final,night,R,1,,T-Mobile Park
+4b78269d847fc4fb3836ba51821ce900,2024-04-28,2024-04-28 17:35:00+00,Oakland Athletics,7,Baltimore Orioles,6,Final,day,R,1,,Oriole Park at Camden Yards
+8ce7ae7579c45b492e6d308da8d328f2,2024-04-28,2024-04-28 17:35:00+00,Cleveland Guardians,3,Atlanta Braves,4,Final,day,R,1,,Truist Park
+a3fa5d7de75c20ca726752de151afdcb,2024-04-28,2024-04-28 17:37:00+00,Los Angeles Dodgers,1,Toronto Blue Jays,3,Final,day,R,1,,Rogers Centre
+f3dd915bb7c53b7b5fcda33481bb2474,2024-04-28,2024-04-28 17:40:00+00,Kansas City Royals,1,Detroit Tigers,4,Final,day,R,1,,Comerica Park
+8dd791badcbc7164ee41bd454a1a1ae5,2024-04-28,2024-04-28 17:40:00+00,St. Louis Cardinals,2,New York Mets,4,Final,day,R,1,,Citi Field
+a7dd725d6027c0243fdf478964e68755,2024-04-28,2024-04-28 17:40:00+00,Washington Nationals,12,Miami Marlins,9,Final,day,R,1,,loanDepot park
+1b2ec4ace33a165dc62ccc9a9d77a41f,2024-04-28,2024-04-28 18:10:00+00,Tampa Bay Rays,2,Chicago White Sox,4,Final,day,R,1,,Guaranteed Rate Field
+56b79cf7bbbbdfda9e9c352917a43b20,2024-04-28,2024-04-28 18:10:00+00,New York Yankees,15,Milwaukee Brewers,5,Final,day,R,1,,American Family Field
+b7556134b71ca891e058a3c793334532,2024-04-28,2024-04-28 18:35:00+00,Cincinnati Reds,3,Texas Rangers,4,Final,day,R,1,,Globe Life Field
+22030962895d5172c28c42742a4b5a8d,2024-04-28,2024-04-28 20:05:00+00,Houston Astros,8,Colorado Rockies,2,Final,day,R,1,"in Mexico City, MX",Estadio Alfredo Harp Helu
+bb10ffc230c7f4ce1c6ad6e72551b537,2024-04-28,2024-04-28 20:05:00+00,Pittsburgh Pirates,2,San Francisco Giants,3,Final,day,R,1,,Oracle Park
+5762775262003c2e5fc263e22450ba44,2024-04-28,2024-04-28 20:07:00+00,Minnesota Twins,11,Los Angeles Angels,5,Final,day,R,1,,Angel Stadium
+78743e6767eda67699e8c8443fedb05d,2024-04-28,2024-04-28 20:10:00+00,Arizona Diamondbacks,3,Seattle Mariners,2,Final,day,R,1,,T-Mobile Park
+cc2e43ae2f1eb0a88ada58db941f6bcc,2024-04-28,2024-04-28 20:10:00+00,Philadelphia Phillies,8,San Diego Padres,6,Final,day,R,1,,Petco Park
+198012eb6ac4ff5ddbd1a819bdfa12b6,2024-04-28,2024-04-28 23:10:00+00,Chicago Cubs,4,Boston Red Sox,5,Final,night,R,1,,Fenway Park
+f945b4fc2a3ba9d6f7c4fccca9f1521a,2024-04-29,2024-04-29 22:35:00+00,New York Yankees,0,Baltimore Orioles,2,Final,night,R,1,,Oriole Park at Camden Yards
+3e0dfd7b457d213c20286ff918a63ec6,2024-04-29,2024-04-29 22:40:00+00,Washington Nationals,7,Miami Marlins,2,Final,night,R,1,,loanDepot park
+dd9fbb5f84720d21755f3fa543fafa7c,2024-04-29,2024-04-29 23:07:00+00,Kansas City Royals,5,Toronto Blue Jays,6,Final,night,R,1,,Rogers Centre
+d97680165fbf4815e396e5676f202d9b,2024-04-29,2024-04-29 23:10:00+00,Chicago Cubs,3,New York Mets,1,Final,night,R,1,,Citi Field
+5e5871f137cdb33bf0798bbc1f67d5bc,2024-04-29,2024-04-29 23:40:00+00,Minnesota Twins,3,Chicago White Sox,2,Final,night,R,1,,Guaranteed Rate Field
+e1d2fa3966c211146fb82a520214a33f,2024-04-29,2024-04-29 23:40:00+00,Tampa Bay Rays,1,Milwaukee Brewers,0,Final,night,R,1,,American Family Field
+57d42400ea5a362a2e96758bae65ae13,2024-04-29,2024-04-30 01:38:00+00,Philadelphia Phillies,5,Los Angeles Angels,6,Final,night,R,1,,Angel Stadium
+8307afe26210b8f7398d9a94e767904a,2024-04-29,2024-04-30 01:40:00+00,Los Angeles Dodgers,8,Arizona Diamondbacks,4,Final,night,R,1,,Chase Field
+438c3e92abced075ef6d39296f95c1e4,2024-04-29,2024-04-30 01:40:00+00,Pittsburgh Pirates,1,Oakland Athletics,5,Final,night,R,1,,Oakland Coliseum
+4f6a1311997482f3e7ab21eb4ad3d1fe,2024-04-29,2024-04-30 01:40:00+00,Cincinnati Reds,5,San Diego Padres,2,Final,night,R,1,,Petco Park
+a927c93ad18150e8e2ac071a11810087,2024-04-29,2024-04-30 01:40:00+00,Atlanta Braves,1,Seattle Mariners,2,Final,night,R,1,,T-Mobile Park
+edcc17615619e4230a18b8c73137c0ad,2024-04-30,2024-04-30 19:40:00+00,St. Louis Cardinals,2,Detroit Tigers,1,Final,day,R,1,,Comerica Park
+22189c41f4236371d7710e295986ae80,2024-04-30,2024-04-30 22:35:00+00,New York Yankees,2,Baltimore Orioles,4,Final,night,R,1,,Oriole Park at Camden Yards
+6e7cd4dec18df8b0cf53bfe60bb73de8,2024-04-30,2024-04-30 22:40:00+00,Colorado Rockies,6,Miami Marlins,7,Final,night,R,1,,loanDepot park
+6143aaa999112d26321d962aae4978b4,2024-04-30,2024-04-30 23:07:00+00,Kansas City Royals,4,Toronto Blue Jays,1,Final,night,R,1,,Rogers Centre
+06e1d7be0ae5e26c3780cfbf505aa025,2024-04-30,2024-04-30 23:10:00+00,Chicago Cubs,2,New York Mets,4,Final,night,R,1,,Citi Field
+a9533d57587d7f36d35f93840e7cfcf0,2024-04-30,2024-04-30 23:10:00+00,San Francisco Giants,0,Boston Red Sox,4,Final,night,R,1,,Fenway Park
+444f009e102a9b39db8d44147109f370,2024-04-30,2024-04-30 23:40:00+00,Minnesota Twins,6,Chicago White Sox,5,Final,night,R,1,,Guaranteed Rate Field
+13729975d37dd69eead20f2a940c91d9,2024-04-30,2024-04-30 23:40:00+00,Tampa Bay Rays,2,Milwaukee Brewers,8,Final,night,R,1,,American Family Field
+560055e2390ca464f51baab68a15504b,2024-04-30,2024-05-01 00:05:00+00,Washington Nationals,1,Texas Rangers,7,Final,night,R,1,,Globe Life Field
+bc09825bb8e6f0f82458540ad554cc7a,2024-04-30,2024-05-01 00:10:00+00,Cleveland Guardians,9,Houston Astros,10,Final,night,R,1,,Minute Maid Park
+d3794c14089d8a6076ab67c7e80a20d8,2024-04-30,2024-05-01 01:38:00+00,Philadelphia Phillies,7,Los Angeles Angels,5,Final,night,R,1,,Angel Stadium
+b641bc31aab2a4d6f96bf92b19fc209c,2024-04-30,2024-05-01 01:40:00+00,Los Angeles Dodgers,3,Arizona Diamondbacks,4,Final,night,R,1,,Chase Field
+6597a4a050842bf997c6a37eb11ca1cc,2024-04-30,2024-05-01 01:40:00+00,Pittsburgh Pirates,2,Oakland Athletics,5,Final,night,R,1,,Oakland Coliseum
+45b968a6daa91593407051721cd79e14,2024-04-30,2024-05-01 01:40:00+00,Cincinnati Reds,4,San Diego Padres,6,Final,night,R,1,,Petco Park
+fab036c92c37503f5fc82226a7d6a5a6,2024-04-30,2024-05-01 01:40:00+00,Atlanta Braves,2,Seattle Mariners,3,Final,night,R,1,,T-Mobile Park
+034cdaf12f1f50223a57383f6de02630,2024-05-01,2024-05-01 17:10:00+00,St. Louis Cardinals,1,Detroit Tigers,4,Final,day,R,1,,Comerica Park
+285a12f1e60500ae8ae408ff9baa99e0,2024-05-01,2024-05-01 17:10:00+00,Tampa Bay Rays,1,Milwaukee Brewers,7,Final,day,R,1,,American Family Field
+e471be3bb513d988778020a006ef9aa5,2024-05-01,2024-05-01 18:10:00+00,Minnesota Twins,10,Chicago White Sox,5,Final,day,R,1,,Guaranteed Rate Field
+7de6f01422e6d4e1a1d301e3323ed69e,2024-05-01,2024-05-01 19:07:00+00,Kansas City Royals,6,Toronto Blue Jays,1,Final,day,R,1,,Rogers Centre
+6cf268f0cf5ee8d0acad204c79a9b899,2024-05-01,2024-05-01 19:37:00+00,Pittsburgh Pirates,0,Oakland Athletics,4,Final,day,R,1,,Oakland Coliseum
+eea233ac24b203132e6f546d33af6673,2024-05-01,2024-05-01 19:40:00+00,Atlanta Braves,5,Seattle Mariners,2,Final,day,R,1,,T-Mobile Park
+63c5f72e82c28f6db03793af676ab45a,2024-05-01,2024-05-01 20:07:00+00,Philadelphia Phillies,2,Los Angeles Angels,1,Final,day,R,1,,Angel Stadium
+6ec5e0fd3f9451597597f20a4d5d22c4,2024-05-01,2024-05-01 20:10:00+00,Cincinnati Reds,2,San Diego Padres,6,Final,day,R,1,,Petco Park
+2f404869013b0a0037891bb512c9d23f,2024-05-01,2024-05-01 22:35:00+00,New York Yankees,2,Baltimore Orioles,0,Final,night,R,1,,Oriole Park at Camden Yards
+0793dbc77c094216becb655593907160,2024-05-01,2024-05-01 22:40:00+00,Colorado Rockies,1,Miami Marlins,4,Final,night,R,1,,loanDepot park
+664bf20718641be1168cb496f3dfbc51,2024-05-01,2024-05-01 23:10:00+00,Chicago Cubs,1,New York Mets,0,Final,night,R,1,,Citi Field
+cc9b0e685398301f68953487a8517628,2024-05-01,2024-05-01 23:10:00+00,San Francisco Giants,2,Boston Red Sox,6,Final,night,R,1,,Fenway Park
+638dfadae7d2dc4301d74f07b5f01143,2024-05-01,2024-05-02 00:05:00+00,Washington Nationals,1,Texas Rangers,0,Final,night,R,1,,Globe Life Field
+772a63e0953b9a4ff5e91d3e62f5c72b,2024-05-01,2024-05-02 00:10:00+00,Cleveland Guardians,3,Houston Astros,2,Final,night,R,1,,Minute Maid Park
+4761634dee87336e2bbad6d55f9c1dc7,2024-05-01,2024-05-02 01:40:00+00,Los Angeles Dodgers,8,Arizona Diamondbacks,0,Final,night,R,1,,Chase Field
