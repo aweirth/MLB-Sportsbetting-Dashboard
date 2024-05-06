@@ -63,6 +63,10 @@ After the conclusion of the preseason:
 5. API Endpoint for Daily Scoreboard:
    - This endpoint was live JSON data for a daily scoreboard of MLB games.
    - The API call was made at 11:55pm PST daily in order to retrieve the final scores of the daily games.
+  
+**Data Pipeline Ingestion and Transformation Diagram**
+![Cloud Diagram](images/railway_cloud_diagram.png)
+
 
 #### The Product
 
