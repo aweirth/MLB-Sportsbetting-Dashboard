@@ -88,7 +88,7 @@ In this repository you will see the following files:
 - mlb_games.csv: MLB Scoreboard game results from March 2nd, 2024 - May 2nd, 2024.
 - prices.csv: Moneyline odds prices for every daily game, for each team collected from over 20 different US sportsbooks.
 ERD:
-![ERD](../Images/final_database_ERD.png)
+![ERD](./Images/final_database_ERD.png)
 
 **Images:** folder containing supplemental images for the project.
 
