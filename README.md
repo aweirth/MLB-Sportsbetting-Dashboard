@@ -84,8 +84,13 @@ This dashboard gave daily, real-time insights to sportsbettors on the optimal ar
 
 In this repository you will see the following files:
 
-Data:
-- **raw_pga_2021.csv:** This is the raw CSV from Data Golf's Archive.
+Final Data:
+- **mlb_games.csv:** MLB Scoreboard game results from March 2nd, 2024 - May 2nd, 2024.
+- **prices.csv:** Moneyline odds prices for every daily game, for each team collected from over 20 different US sportsbooks.
+
+Images: folder containing supplemental images for the project.
+
+
 
 Cleaning Script:
 - **masters_cleaning.R:** This is the script responsible for cleaning the raw csv and prodicing the cleaned CSV's.
