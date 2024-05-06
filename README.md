@@ -75,7 +75,7 @@ View the report Power BI report [here](https://app.powerbi.com/groups/16ae97bc-f
 ###### Daily Odds Prices Dashboard
 ![Power BI Image1](./Images/oddsprices_pbi_dashboard.png)
 
-##### Live Profitability Graphic - Most profitable teams off a $10 ML bet every game
+###### Live Profitability Graphic - Most profitable teams off a $10 ML bet every game
 ![Power BI Image2](./Images/profits_pbi_dashboard.png)
 
 This dashboard gave daily, real-time insights to sportsbettors on the optimal areas for profitablility on moneyline betting for MLB games based on differentials in US sportsbook's odds prices and team performance.
