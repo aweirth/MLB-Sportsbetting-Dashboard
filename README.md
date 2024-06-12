@@ -2,7 +2,7 @@
 
 *_***UPDATE: As of May 1st 2024, my subscription to PowerBI and the cloud platform Railway hosting my data pipeline have ended with the finishing of the class. The dashboard and data in this repository have MLB Preseason/Regular Season game results and sportbetting odds from March 2nd - May 1st_*
 
-This repository contains my final project for my Graduate Data Engineering class at Willamette University. The end result was a Power BI dashboard connected to my live data source which was a data pipeline serving sportsbetting data from over 20 different US sportsbooks and daily MLB game results. The pipeline gave the ability to observe live MLB moneyline odds for daily games from over 20 different US sportsbooks, as well as the ability to analyze profitability of those odds with attatched game results data.
+This repository contains my final project for my Graduate Data Engineering class at Willamette University. The end result was a Power BI dashboard connected to a cloud-hosted PostgreSQL database, which functioned as a data pipeline ingesting sports betting data from over 20 different U.S. sportsbooks and daily MLB game results. The pipeline gave the ability to observe live MLB moneyline odds for daily games from over 20 different US sportsbooks allowing buyers to get the best odds, as well as the ability to analyze profitability of those odds with attatched game results data.
 
 This project showcases my comprehensive ability to carry out an ETL process:
 
