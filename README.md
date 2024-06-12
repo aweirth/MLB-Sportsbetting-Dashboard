@@ -60,8 +60,6 @@ After the conclusion of the preseason:
   - This endpoint provided live JSON data for a daily scoreboard of MLB games.
   - The API call was made at 11:55 pm PST daily in order to retrieve the final scores of the daily games.
 
-## Data Pipeline Ingestion and Transformation Diagram
-
 ## The Product
 
 The final product was a Power BI dashboard serving live MLB moneyline odds for daily games from over 20 different U.S. sportsbooks, as well as the ability to analyze the profitability of those odds with attached game results data updating daily.
